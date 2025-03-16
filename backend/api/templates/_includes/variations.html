@@ -1,0 +1,14 @@
+{% if page.variations %}
+<div class="event-section">
+  <h2>Game Variations:</h2>
+  <ul>
+    {% for V in page.variations %}
+    {% assign variation = site.data.variations[V] %}
+    <li>
+      <strong>{{variation.name}}:</strong>
+      <span>{{variation.description}}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

@@ -1,16 +1,14 @@
----
-permalink: /
----
 <!DOCTYPE html>
 <html lang="en">
-
+  {% load static %}
+  {% include "_includes/head.html" %}
 
   <body>
     <link
       rel="preload"
       fetchpriority="high"
       as="image"
-      href="/images/logo.webp"
+      href="/static/images/logo.webp"
       type="image/webp"
     />
     <div class="hero_area">
@@ -18,13 +16,14 @@ permalink: /
         <div class="bg_img_box">
           <img
             fetchpriority="high"
-            src="/images/logo.webp"
+            src="/static/images/logo.webp"
             alt=""
             class="scaled-image"
           />
         </div>
       </div>
 
+      {% include "_includes/header.html" %}
       <!-- slider section -->
       <section class="header_section_new">
         <div class="container">
@@ -71,7 +70,8 @@ permalink: /
         </div>
       </section>
     </div>
-  
+    {% include "_includes/upcoming-events-carousel.html" %}
+
     <!-- end about section -->
 
     <!-- Statistics section -->
@@ -80,7 +80,7 @@ permalink: /
         <div class="achievement">
           <img
             class="achievement_img"
-            src="/images/a1.gif"
+            src="/static/images/a1.gif"
             loading="lazy"
             alt="Image 1"
           />
@@ -92,7 +92,7 @@ permalink: /
         <div class="achievement">
           <img
             class="achievement_img"
-            src="/images/a2.gif"
+            src="/static/images/a2.gif"
             loading="lazy"
             alt="Image 2"
           />
@@ -104,7 +104,7 @@ permalink: /
         <div class="achievement">
           <img
             class="achievement_img"
-            src="/images/a3.gif"
+            src="/static/images/a3.gif"
             loading="lazy"
             alt="Image 3"
           />
@@ -163,6 +163,12 @@ permalink: /
     </section>
     <!-- end About section -->
 
+    {% include "_includes/spotlight.html" %} 
+    {% include "_includes/teampics.html" %} 
+    {% include "_includes/testimonials.html" %} 
+    {% include "_includes/bottom.html" %} 
+    {% include "_includes/footer.html" %}
+
     <script>
       
 
@@ -195,5 +201,6 @@ permalink: /
       });
     </script>
 
+    {% include "_includes/scripts.html" %}
   </body>
 </html>

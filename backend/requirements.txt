@@ -1,0 +1,7 @@
+Django>=4.2,<5.0
+djangorestframework
+gunicorn  # For deployment
+psycopg[binary]  # If using PostgreSQL
+mysqlclient  # If using MySQL
+sqlite  # If using SQLite (not needed if using the built-in support)
+whitenoise  # For serving static files in production

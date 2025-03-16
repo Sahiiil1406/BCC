@@ -1,0 +1,75 @@
+{% load tz %}  {# Load timezone support #}
+
+{% now "U" as now_timestamp %}  {# Get current timestamp #}
+{% with upcoming_events=events|dictsort:"startsAt" %}
+
+{% if upcoming_events %}
+<section id="events_section" class="events_section layout_padding">
+  <section class="slider_section">
+    <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+      
+      <div class="carousel-inner">
+        {% for event in upcoming_events %}
+        <div class="carousel-item {% if forloop.first %}active{% endif %}">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="detail-box">
+                  <h1>{{ event.title }}</h1>
+                  <br />
+                  <p>
+                    <i class="icon icon-calendar fa-2x"></i>
+                    <span class="ml-2 lead font-weight-bold">
+                      {{ event.startsAt|date:"l, j F Y" }}
+                    </span>
+                  </p>
+                  <p>
+                    <i class="icon icon-clock-o fa-2x"></i>
+                    <span class="ml-2 lead font-weight-bold">
+                      {{ event.startsAt|date:"g:i A" }} to {{ event.endsAt|date:"g:i A" }}
+                    </span>
+                  </p>
+                  <p>
+                    <i class="icon icon-map-marker fa-2x"></i>
+                    <span class="ml-2 lead font-weight-bold">
+                      {% for location in event.location.all %}
+                        {% if location.link %}
+                          <a href="{{ location.link }}" class="text-light" style="text-decoration: underline" target="_blank">
+                            {{ location.short }}
+                          </a>
+                        {% else %}
+                          <span class="text-light">{{ location.short }}</span>
+                        {% endif %}
+                      {% endfor %}
+                    </span>
+                  </p>
+                  <div class="btn-box">
+                    <a href="{{ event.get_absolute_url }}" class="btn1">
+                      Register here
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="img-box">
+                  <img src="{{ event.image.url }}" alt="Poster for {{ event.title }}" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+      {% if upcoming_events|length > 1 %}
+      <ol class="carousel-indicators">
+        {% for event in upcoming_events %}
+        <li data-target="#customCarousel1" data-slide-to="{{ forloop.counter0 }}" class="{% if forloop.first %}active{% endif %}"></li>
+        {% endfor %}
+      </ol>
+      {% endif %}
+    </div>
+  </section>
+</section>
+{% endif %}
+{% endwith %}

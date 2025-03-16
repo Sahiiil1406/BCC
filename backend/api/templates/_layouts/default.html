@@ -1,0 +1,19 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <!-- container doesn't have any good styles, implement rows? -->
+    <div class="container">
+      {{content}}
+    </div>
+
+    {% include bottom.html %}
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>

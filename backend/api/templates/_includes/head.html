@@ -1,0 +1,48 @@
+{% load static %}
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    
+    <meta name="google-site-verification" content="IXGvIBrzDCSew8EGPk4sbYvRZDB914ehI-gOy0FB4eY" />
+    <meta name="author" content="Bangalore Chess Club" />
+    
+    <link rel="shortcut icon" href="{% static '/images/favicon.png' %}" type="image/png" />
+
+    {% if title and layout == "event" %}
+    <title>{{ title }} - {{ startsAt|date:"%d %B" }} | Bangalore Chess Club</title>
+    {% elif title %}
+    <title>{{ title }} | Bangalore Chess Club</title>
+    {% else %}
+    <title>Bangalore Chess Club</title>
+    {% endif %}
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" type="text/css" href="{% static 'assets/bootstrap/css/bootstrap.min.css' %}" />
+    
+    <!-- Fontello Icons -->
+    <link rel="stylesheet" href="{% static 'assets/icons/css/fontello.css' %}">
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+
+    <!-- Open Graph Tags -->
+    <meta property="og:url" content="{{ request.build_absolute_uri|default:'https://bangalorechessclub.com' }}">
+    <meta property="og:type" content="website">
+    
+    {% if layout == "event" %}
+    <meta name="keywords" content="bangalore, chess, club, {{ startsAt|date:'Y-m-d' }}, {{ startsAt|date:'b d Y' }}" />
+    <meta property="og:description" content="{{ title }} - {{ startsAt|date:'Y m d' }}. Organized by Bangalore Chess Club. {{ content|truncatewords:50 }}">
+    {% else %}
+    <meta name="keywords" content="bangalore, chess, club" />
+    <meta property="og:description" content="{{ description|default:'Join Bangalore Chess Club for tournaments and events.' }}">
+    <meta name="description" content="{{ description|default:'Play chess in Bangalore with the best community events.' }}" />
+    {% endif %}
+    
+    {% if image %}
+    <meta property="og:image" content="{{ request.scheme }}://{{ request.get_host }}{% static 'images/' %}{{ image }}">
+    {% endif %}
+</head>

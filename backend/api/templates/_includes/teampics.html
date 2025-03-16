@@ -1,0 +1,31 @@
+<!-- team section -->
+<section class="team_section layout_padding">
+  <div class="container-fluid">
+    <div class="heading_container heading_center">
+      <h2 class="">Our <span> Team</span></h2>
+    </div>
+  </div>
+
+  <div class="team_container container-fluid">
+    <div class="row">
+      {% for pic in team_pics %}
+      <div class="col-lg-3 col-sm-6">
+        <div class="team-img-container">
+          <div class="img-box team-img-box">
+            <img
+              src="{{ pic.image.url }}"
+              class="img1 img-fluid"
+              alt="Team Member"
+              loading="lazy"
+              fetchpriority="low"
+            />
+          </div>
+        </div>
+      </div>
+      {% empty %}
+      <p class="text-center">No team members found.</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- end team section -->

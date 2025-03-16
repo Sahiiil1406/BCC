@@ -1,0 +1,41 @@
+<!-- info section -->
+<section class="info_section layout_padding2">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-4 info_col">
+        <div class="info_contact">
+          <h4>Address</h4>
+          <div class="contact_link_box">
+            <span class="icon icon-map-marker"> Bangalore, India </span>
+            <a href="mailto:{{ site_email }}" class="icon icon-envelope">
+              <span> {{ site_email }} </span>
+            </a>
+          </div>
+        </div>
+        {% include '_includes/social-icons.html' %}
+      </div>
+      
+      <div class="col-md-6 col-lg-4 info_col">
+        <div class="info_detail">
+          <h4>Info</h4>
+          <p>{{ site_description }}</p>
+        </div>
+      </div>
+
+      <div class="col-md-3 col-lg-2 mx-auto info_col">
+        <div class="info_link_box">
+          <h4>Links</h4>
+          {% comment %} <div class="info_links">
+            <a class="active" href="{% url 'home' %}">Home</a>
+            <a class="" href="{% url 'events' %}#events_section">Upcoming Events</a>
+            <a class="" href="{% url 'events' %}">All Events</a>
+            <a class="" href="{% url 'spotlight' %}">Spotlight</a>
+            <a href="{% url 'gallery' %}">Gallery</a>
+          </div> {% endcomment %}
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+<!-- end info section -->
