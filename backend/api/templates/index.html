@@ -1,0 +1,199 @@
+---
+permalink: /
+---
+<!DOCTYPE html>
+<html lang="en">
+
+
+  <body>
+    <link
+      rel="preload"
+      fetchpriority="high"
+      as="image"
+      href="/images/logo.webp"
+      type="image/webp"
+    />
+    <div class="hero_area">
+      <div class="hero_bg_box">
+        <div class="bg_img_box">
+          <img
+            fetchpriority="high"
+            src="/images/logo.webp"
+            alt=""
+            class="scaled-image"
+          />
+        </div>
+      </div>
+
+      <!-- slider section -->
+      <section class="header_section_new">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8">
+              <div class="detail-box">
+                <h1 class="home-title">
+                  <span class="line">Making Chess fun with</span>
+                  <span class="line">Bangalore Chess Club ✨</span>
+                </h1>
+                <p>
+                  Step into a world where camaraderie, fun, and friendship take
+                  center stage, <br />and competition fades into the
+                  background.<br /><br />
+                  Rediscover the joy of playing chess with us at the Bangalore
+                  Chess Club.<br /><br />
+                  Join for the sheer delight of the game - where every move
+                  brings not just strategy, but smiles. <br />Play chess,
+                  embrace the joy!
+                </p>
+                <div class="oval-button-container">
+                  <a
+                    href="https://chat.whatsapp.com/GuX19ystE4yBOTaq6SuEbX"
+                    class="oval-button"
+                    style="background-color: #25d366"
+                    target="_blank"
+                    title="WhatsApp Community join link for Bangalore Chess Club"
+                    ><i class="icon icon-whatsapp" aria-hidden="true"></i> Join
+                    our WhatsApp Community
+                  </a>
+                  <a
+                    href="https://www.instagram.com/bangalorechessclub/"
+                    class="oval-button"
+                    style="background-color: #833ab4"
+                    target="_blank"
+                    title="instagram account for Bangalore Chess Club"
+                    ><i class="icon icon-instagram" aria-hidden="true"></i>
+                    Follow us on Instagram
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  
+    <!-- end about section -->
+
+    <!-- Statistics section -->
+    <section>
+      <div class="achievements">
+        <div class="achievement">
+          <img
+            class="achievement_img"
+            src="/images/a1.gif"
+            loading="lazy"
+            alt="Image 1"
+          />
+          <div class="achievement_info">
+            <span class="number">10,000+</span>
+            <span class="label">Active Members</span>
+          </div>
+        </div>
+        <div class="achievement">
+          <img
+            class="achievement_img"
+            src="/images/a2.gif"
+            loading="lazy"
+            alt="Image 2"
+          />
+          <div class="achievement_info">
+            <span class="number">100+</span>
+            <span class="label">Events ands Meetups</span>
+          </div>
+        </div>
+        <div class="achievement">
+          <img
+            class="achievement_img"
+            src="/images/a3.gif"
+            loading="lazy"
+            alt="Image 3"
+          />
+          <div class="achievement_info">
+            <span class="number">25+</span>
+            <span class="label">Colabs</span>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Statistics end section -->
+
+    <!-- About us section -->
+
+    <section class="about_section layout_padding">
+      <div class="container">
+        <div class="heading_container heading_center">
+          <h2>Get to <span>know us</span></h2>
+          <p></p>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="img-box">
+              <lite-youtube
+                videoid="1bAbLvJ8r-k"
+                playlabel="Play: Bangalore Chess Club Intro Video"
+              ></lite-youtube>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="detail-box">
+              <h3>We Are Bangalore Chess Club</h3>
+              <p>
+                The Bangalore Chess Club, is a vibrant and passionate community
+                of chess enthusiasts in the heart of Bangalore, Karnataka.
+                <br /><br />
+                Established with the goal of promoting and nurturing the
+                intellectually stimulating game of chess, this club has grown to
+                become a hub for players of all ages and skill levels.<br />With
+                a rich history of hosting meetups across parks, cafes, malls and
+                other lively spaces, the Bangalore Chess Club is where strategy
+                meets camaraderie, and where knights, rooks, and queens come to
+                life on the 64 squares. <br /><br />
+                Whether you're a novice looking to learn the game or a seasoned
+                grandmaster honing your skills, the Bangalore Chess Club
+                welcomes all to be a part of its enduring legacy in the world of
+                chess.
+              </p>
+              <div class="btn-box">
+                <a href="/gallery/" class="btn btn-primary"> View Gallery </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- end About section -->
+
+    <script>
+      
+
+      document.addEventListener("DOMContentLoaded", function () {
+        var bsCollapse = new bootstrap.Collapse( document.getElementById('navbarSupportedContent'), {toggle:false});
+        // Function to scroll to a target element with smooth behavior
+        function scrollToTarget(href) {
+          let selector = new URL(href, String(window.location)).hash;
+          let targetElement = document.querySelector(selector);
+          if (targetElement) {
+            targetElement.scrollIntoView({ behavior: "smooth", block: "nearest" });
+            bsCollapse.hide()
+          }
+        }
+
+        // Attach click event listeners to handle smooth scrolling on link clicks
+        var scrollLinks = document.querySelectorAll(".scroll-link");
+        scrollLinks.forEach(function (link) {
+          // If the link is for the same page
+          if(new URL(link.getAttribute('href'), String(window.location)).pathname == window.location.pathname) {
+            link.addEventListener("click", function (event) {
+              event.preventDefault();
+              scrollToTarget(this.getAttribute("href"));
+
+              // Update the URL with the section parameter
+              history.pushState(null, null, this.getAttribute("href"));
+            });
+          }
+        });
+      });
+    </script>
+
+  </body>
+</html>
