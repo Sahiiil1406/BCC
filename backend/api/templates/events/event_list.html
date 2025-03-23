@@ -1,0 +1,7 @@
+{% for event in events %}
+    <h2>{{ event.title }}</h2>
+    <p>{{ event.description }}</p>
+    <a href="{% url 'event_update' event.id %}">Edit</a> |
+    <a href="{% url 'event_delete' event.id %}">Delete</a>
+{% endfor %}
+<a href="{% url 'event_create' %}">Create New Event</a>
