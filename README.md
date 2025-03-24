@@ -1,4 +1,5 @@
 # Django Project Setup Guide
+
 ### Initial Setup
 
 ```bash
@@ -13,9 +14,14 @@ source venv/bin/activate
 
 # Install Django
 pip install django
+```
 
-# Navigate to the project directory
-cd backend
+### Clone the repository
+```bash
+git clone https://github.com/Sahiiil1406/BCC
+
+# Navigate to folder BCC
+cd BCC
 ```
 
 
