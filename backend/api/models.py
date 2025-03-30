@@ -2,10 +2,22 @@ from django.db import models
 
 class Event(models.Model):
     title = models.CharField(max_length=255)
-    description = models.TextField()
     location = models.CharField(max_length=255)
-    start_time = models.DateTimeField()
-    end_time = models.DateTimeField()
+    variations = models.CharField(max_length=255)
+    layout = models.CharField(max_length=255)
+    sponsor = models.CharField(max_length=255)
+    image = models.CharField(max_length=255)
+    startsAt = models.DateTimeField()
+    endsAt = models.DateTimeField()
+    permalink = models.CharField(max_length=255)
+    price = models.IntegerField()
+    razorpay_Id = models.CharField(max_length=255)
 
     def __str__(self):
         return self.title
+
+#might be required later to track payments  
+# class PaymentField(models.Model):
+#     eventId = models.ForeignKey(Event, on_delete=models.CASCADE)
+#     price = models.IntegerField()
+#     razorpay_Id = models.CharField(max_length=255)

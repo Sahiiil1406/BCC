@@ -116,3 +116,7 @@ migrations/
 
 # Local.env
 *.env
+
+# Environment variables
+.env.*
+!.env.example
