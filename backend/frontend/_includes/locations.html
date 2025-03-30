@@ -1,0 +1,23 @@
+{% for id in page.location %}
+{% assign L = site.data.locations[id] %}
+
+<div class="location-section">
+  <div class="location-details">
+    {% if forloop.first %}<h2>Event Location</h2>{% endif %}
+    <p>
+      <span class="cafe-name">{{L.name}}</span>
+      {% if id != 'online' %}
+      <br />{{L.address}}, Bengaluru, India
+      {% endif %}
+    </p>
+  </div>
+  {% if L.link %}
+  <a
+    href="{{L.link}}"
+    target="_blank"
+    class="google-map-link icon-map-marker"
+    >View on Google Maps</a
+  >
+  {% endif %}
+</div>
+  {% endfor %}

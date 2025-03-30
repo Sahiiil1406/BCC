@@ -1,0 +1,5901 @@
+[
+  
+  
+
+  
+
+  
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2025-01-04T10:00:00+05:30",
+  "endDate": "2025-01-04T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Qube Cafe",
+    "address": "Indiqube octa, 643, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PdMZ4jpCeUwjSY/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20250104.jpeg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-01-04/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2025-01-05T10:00:00+05:30",
+  "endDate": "2025-01-05T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PdMZ4jpCeUwjSY/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250105.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-01-05/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2018-01-07T17:00:00+05:30",
+  "endDate": "2018-01-07T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-01-07/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: FreeStyle - Bangalore Chess Club",
+  "startDate": "2025-01-11T16:00:00+05:30",
+  "endDate": "2025-01-11T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Kaavu",
+    "address": "Pattandur Agrahara Rd, Siddapura, Brookefield, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PdMZ4jpCeUwjSY/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250111.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-01-11/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2025-01-12T16:00:00+05:30",
+  "endDate": "2025-01-12T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Slay Coffee",
+    "address": "Ground Floor, I Sector 16th Cross, 27th Main Rd, opp. NIFT College, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PdMZ4jpCeUwjSY/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20250112.jpeg",
+  
+  "url": "http://localhost:4000/chess-cafe/2025-01-12/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Team Battle - Bangalore Chess Club",
+  "startDate": "2025-01-19T10:00:00+05:30",
+  "endDate": "2025-01-19T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PdMjp8rVNWxInU/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250119.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-01-19/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Monthly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2020-01-19T16:00:00+05:30",
+  "endDate": "2020-01-19T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2020-01-19/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2018-01-21T17:00:00+05:30",
+  "endDate": "2018-01-21T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-01-21/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2025-01-25T10:00:00+05:30",
+  "endDate": "2025-01-25T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Starbucks",
+    "address": "Building No 804, Avenue 4th Block 9th Main, 35th Cross Rd, near BSNL Office, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PdMZ4jpCeUwjSY/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20250125.jpeg",
+  
+  "url": "http://localhost:4000/chess-cafe/2025-01-25/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2025-01-26T10:00:00+05:30",
+  "endDate": "2025-01-26T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PdMZ4jpCeUwjSY/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250126.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-01-26/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Coffee and Checkmate: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-01-27T10:00:00+05:30",
+  "endDate": "2024-01-27T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Azzure",
+    "address": "27th Main Road, 1st Sector, HSR Layout, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/coffee_and_checkmate_hsr.jpeg",
+  
+  "url": "http://localhost:4000/coffee-checkmate/2024-01-27/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2018-01-28T16:00:00+05:30",
+  "endDate": "2018-01-28T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-01-28/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Blitz - Bangalore Chess Club",
+  "startDate": "2025-02-02T10:00:00+05:30",
+  "endDate": "2025-02-02T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PlHR1ChYXlnHzV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250202.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-02-02/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-02-04T10:00:00+05:30",
+  "endDate": "2024-02-04T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chess_connect_rmz.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-02-04/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Blitz Tournament - Bangalore Chess Club",
+  "startDate": "2017-02-05T15:00:00+05:30",
+  "endDate": "2017-02-05T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-02-05/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: FreeStyle - Bangalore Chess Club",
+  "startDate": "2025-02-08T16:00:00+05:30",
+  "endDate": "2025-02-08T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Kaavu",
+    "address": "Pattandur Agrahara Rd, Siddapura, Brookefield, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PlHR1ChYXlnHzV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250208.png",
+  
+  "url": "http://localhost:4000/chess-connect/2025-02-08/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess and Cheers: Hand & Brain - Bangalore Chess Club",
+  "startDate": "2025-02-09T16:00:00+05:30",
+  "endDate": "2025-02-09T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Uru Brewpark",
+    "address": "Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "400",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PoVMV5axKCeaBK/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscheers_20250209.jpeg",
+  
+  "url": "http://localhost:4000/chess-cheers/2025-02-09/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-02-11T10:00:00+05:30",
+  "endDate": "2024-02-11T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Hub",
+    "address": "Infantry Road,Near MG Road, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chess_connect_banner2.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-02-11/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Blitz Tournament - Bangalore Chess Club",
+  "startDate": "2017-02-12T16:00:00+05:30",
+  "endDate": "2017-02-12T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-02-12/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2025-02-15T10:00:00+05:30",
+  "endDate": "2025-02-15T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Starbucks",
+    "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PlHR1ChYXlnHzV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20250215.jpeg",
+  
+  "url": "http://localhost:4000/chess-cafe/2025-02-15/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Blitz - Bangalore Chess Club",
+  "startDate": "2025-02-16T10:00:00+05:30",
+  "endDate": "2025-02-16T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PlHR1ChYXlnHzV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250216.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-02-16/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Monthly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2020-02-16T16:00:00+05:30",
+  "endDate": "2020-02-16T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2020-02-16/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Coffee and Checkmate: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-02-18T10:00:00+05:30",
+  "endDate": "2024-02-18T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Azzure",
+    "address": "MG Road, Shanthala Nagar, Shivaji Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/coffee_and_checkmate_mg.jpeg",
+  
+  "url": "http://localhost:4000/coffee-checkmate/2024-02-18/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2018-02-18T16:00:00+05:30",
+  "endDate": "2018-02-18T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-02-18/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Ruy Lopez+Sicilian - Bangalore Chess Club",
+  "startDate": "2017-02-19T16:00:00+05:30",
+  "endDate": "2017-02-19T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-02-19/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2022-02-20T15:30:00+05:30",
+  "endDate": "2022-02-20T17:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/c/e/a/f/highres_502072911.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2022-02-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2025-02-23T10:00:00+05:30",
+  "endDate": "2025-02-23T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PlHR1ChYXlnHzV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250223.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-02-23/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "FreeStyle Chess:\nOTB Arena | Simul with GM Kannappan\n - Bangalore Chess Club",
+  "startDate": "2024-02-25T17:00:00+05:30",
+  "endDate": "2024-02-25T20:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/fresstyle_chess_poster.jpeg",
+  
+  "url": "http://localhost:4000/freestyle-chess/2024-02-25/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - The Italian - Bangalore Chess Club",
+  "startDate": "2017-02-26T16:00:00+05:30",
+  "endDate": "2017-02-26T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-02-26/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Blitz - Bangalore Chess Club",
+  "startDate": "2025-03-02T10:00:00+05:30",
+  "endDate": "2025-03-02T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PzcXcRBKF2PYOV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250302.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-03-02/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-03-03T10:00:00+05:30",
+  "endDate": "2024-03-03T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Hub",
+    "address": "Infantry Road,Near MG Road, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chess_connect_banner2.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-03-03/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2018-03-04T16:00:00+05:30",
+  "endDate": "2018-03-04T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-03-04/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2022-03-06T15:30:00+05:30",
+  "endDate": "2022-03-06T18:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/d/4/9/d/highres_502374429.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2022-03-06/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2025-03-08T10:00:00+05:30",
+  "endDate": "2025-03-08T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Starbucks",
+    "address": "Building No 804, Avenue 4th Block 9th Main, 35th Cross Rd, near BSNL Office, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PzcXcRBKF2PYOV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20250308.jpg",
+  
+  "url": "http://localhost:4000/chess-cafe/2025-03-08/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Checkmate Park - Bangalore Chess Club",
+  "startDate": "2024-03-09T15:30:00+05:30",
+  "endDate": "2024-03-09T18:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Spinny Park",
+    "address": "Jala Hobli, Airport Road, Yelahanka, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/Checkmate-Park-1000x300.jpg",
+  
+  "url": "http://localhost:4000/checkmate-park/2024-03-09/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Triathlon - Bangalore Chess Club",
+  "startDate": "2025-03-09T10:00:00+05:30",
+  "endDate": "2025-03-09T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PzcXcRBKF2PYOV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250309.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-03-09/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Ruy Lopez+Sicilian - Bangalore Chess Club",
+  "startDate": "2017-03-12T16:00:00+05:30",
+  "endDate": "2017-03-12T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-03-12/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Chess Tournament - Bangalore Chess Club",
+  "startDate": "2018-03-14T19:00:00+05:30",
+  "endDate": "2018-03-14T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-03-14/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: FreeStyle - Bangalore Chess Club",
+  "startDate": "2025-03-15T16:00:00+05:30",
+  "endDate": "2025-03-15T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Gilly's Super Bar",
+    "address": "2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PzcXcRBKF2PYOV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250315.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-03-15/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Team Battle - Bangalore Chess Club",
+  "startDate": "2025-03-16T10:00:00+05:30",
+  "endDate": "2025-03-16T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_Q21T6pSf4A1i1f/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250316.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-03-16/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Coffee and Checkmate: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-03-17T10:00:00+05:30",
+  "endDate": "2024-03-17T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Azzure",
+    "address": "MG Road, Shanthala Nagar, Shivaji Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/coffee_and_checkmate_mg.jpeg",
+  
+  "url": "http://localhost:4000/coffee-checkmate/2024-03-17/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Sicilian - Bangalore Chess Club",
+  "startDate": "2017-03-19T16:00:00+05:30",
+  "endDate": "2017-03-19T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-03-19/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meetup - Bangalore Chess Club",
+  "startDate": "2022-03-20T10:00:00+05:30",
+  "endDate": "2022-03-20T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/c/c/a/highres_502711946.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2022-03-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Chess Tournament - Bangalore Chess Club",
+  "startDate": "2018-03-21T19:00:00+05:30",
+  "endDate": "2018-03-21T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-03-21/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess and Cheers: Hand & Brain - Bangalore Chess Club",
+  "startDate": "2025-03-22T16:00:00+05:30",
+  "endDate": "2025-03-22T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Uru Brewpark",
+    "address": "Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "400",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_Q21ZYfPEJoHiIC/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscheers_20250322.jpg",
+  
+  "url": "http://localhost:4000/chess-cheers/2025-03-22/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2025-03-23T10:00:00+05:30",
+  "endDate": "2025-03-23T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PzcXcRBKF2PYOV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20250323.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2025-03-23/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - French Defense - Bangalore Chess Club",
+  "startDate": "2017-03-26T16:00:00+05:30",
+  "endDate": "2017-03-26T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-03-26/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-03-28T19:00:00+05:30",
+  "endDate": "2018-03-28T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-03-28/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2025-03-30T10:00:00+05:30",
+  "endDate": "2025-03-30T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Starbucks",
+    "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PzcXcRBKF2PYOV/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20250330.jpg",
+  
+  "url": "http://localhost:4000/chess-cafe/2025-03-30/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Trivia Quiz - Bangalore Chess Club",
+  "startDate": "2024-03-30T18:00:00+05:30",
+  "endDate": "2024-03-30T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Azzure",
+    "address": "27th Main Road, 1st Sector, HSR Layout, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/ChessQuiz_30032024.jpeg",
+  
+  "url": "http://localhost:4000/chess-quiz/2024-03-30/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Queen's Pawn Game - Bangalore Chess Club",
+  "startDate": "2017-04-02T16:00:00+05:30",
+  "endDate": "2017-04-02T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-04-02/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2022-04-03T10:00:00+05:30",
+  "endDate": "2022-04-03T12:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/d/5/3/e/highres_503034590.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2022-04-03/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Quarantine Weekly - Bangalore Chess Club",
+  "startDate": "2020-04-05T19:00:00+05:30",
+  "endDate": "2020-04-05T20:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "VirtualLocation",
+    "name": "Zoom Virtual Meeting"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2020-04-05/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-04-07T10:00:00+05:30",
+  "endDate": "2024-04-07T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Hub",
+    "address": "Infantry Road,Near MG Road, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_07042024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-04-07/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "The Weekend Chess Megatournament - Bangalore Chess Club",
+  "startDate": "2018-04-08T14:45:00+05:30",
+  "endDate": "2018-04-08T16:45:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Karnataka Chess Academy",
+    "address": "271, 4th Main Rd, Mahalaxmi Layout, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/1/4/9/highres_469469001.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-04-08/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-04-09T16:00:00+05:30",
+  "endDate": "2017-04-09T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-04-09/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-04-11T19:00:00+05:30",
+  "endDate": "2018-04-11T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-04-11/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Quarantine Weekly - Bangalore Chess Club",
+  "startDate": "2020-04-12T18:00:00+05:30",
+  "endDate": "2020-04-12T19:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "VirtualLocation",
+    "name": "Zoom Virtual Meeting"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2020-04-12/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-04-16T16:00:00+05:30",
+  "endDate": "2017-04-16T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-04-16/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-04-18T19:00:00+05:30",
+  "endDate": "2018-04-18T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-04-18/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-04-20T16:00:00+05:30",
+  "endDate": "2024-04-20T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Petriqor",
+    "address": "Jeewan Sathi Colony, 1st Phase, J. P. Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/ChessCafe_20042024.jpeg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-04-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "The Weekend Chess Megatournament - Bangalore Chess Club",
+  "startDate": "2018-04-22T14:45:00+05:30",
+  "endDate": "2018-04-22T18:45:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Karnataka Chess Academy",
+    "address": "271, 4th Main Rd, Mahalaxmi Layout, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/5/a/3/1/highres_470303089.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-04-22/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-04-23T16:00:00+05:30",
+  "endDate": "2017-04-23T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-04-23/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-04-25T19:00:00+05:30",
+  "endDate": "2018-04-25T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-04-25/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2024-04-28T10:00:00+05:30",
+  "endDate": "2024-04-28T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_28042024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-04-28/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-04-30T16:00:00+05:30",
+  "endDate": "2017-04-30T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/2/6/c/0/event_460389920.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2017-04-30/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-05-02T19:00:00+05:30",
+  "endDate": "2018-05-02T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-05-02/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Coffee and Checkmate: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-05-05T10:00:00+05:30",
+  "endDate": "2024-05-05T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Azzure",
+    "address": "MG Road, Shanthala Nagar, Shivaji Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/coffee_and_checkmate_mg.jpeg",
+  
+  "url": "http://localhost:4000/coffee-checkmate/2024-05-05/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-05-06T16:00:00+05:30",
+  "endDate": "2017-05-06T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-05-06/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-05-07T16:00:00+05:30",
+  "endDate": "2017-05-07T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-05-07/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Bangalore Chess Club Meet-up - Bangalore Chess Club",
+  "startDate": "2022-05-08T11:00:00+05:30",
+  "endDate": "2022-05-08T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Lahe Lahe",
+    "address": "Indiranagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/3/0/7/5/highres_503892405.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2022-05-08/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-05-09T19:00:00+05:30",
+  "endDate": "2018-05-09T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-05-09/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-03-12T10:00:00+05:30",
+  "endDate": "2024-03-12T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Hub",
+    "address": "Infantry Road,Near MG Road, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_12052024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-03-12/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-05-14T16:00:00+05:30",
+  "endDate": "2017-05-14T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-05-14/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-05-16T19:00:00+05:30",
+  "endDate": "2018-05-16T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-05-16/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-05-19T10:00:00+05:30",
+  "endDate": "2024-05-19T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_19052024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-05-19/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-05-20T16:30:00+05:30",
+  "endDate": "2017-05-20T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-05-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-05-21T16:00:00+05:30",
+  "endDate": "2017-05-21T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-05-21/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Bangalore Chess Club",
+  "startDate": "2022-05-22T10:00:00+05:30",
+  "endDate": "2022-05-22T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": null,
+    "address": ", Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/a/e/4/b/highres_504224619.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2022-05-22/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-05-23T19:00:00+05:30",
+  "endDate": "2018-05-23T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-05-23/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-05-26T10:00:00+05:30",
+  "endDate": "2024-05-26T13:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_26052024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-05-26/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-05-27T16:30:00+05:30",
+  "endDate": "2017-05-27T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-05-27/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-05-28T16:00:00+05:30",
+  "endDate": "2017-05-28T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-05-28/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Tournament @ WeWork - Bangalore Chess Club",
+  "startDate": "2018-05-30T18:00:00+05:30",
+  "endDate": "2018-05-30T20:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "wework-galaxy",
+    "address": "WeWork Galaxy 43 Residency Road, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/1/4/f/c/highres_471365372.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-05-30/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Team Battle - Bangalore Chess Club",
+  "startDate": "2024-06-02T10:00:00+05:30",
+  "endDate": "2024-06-02T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Underline Center",
+    "address": "3rd Floor, above Blue Tokai, Defence Colony, Domlur, Indiranagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_02062024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-06-02/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Bangalore Chess Club is Back! - Bangalore Chess Club",
+  "startDate": "2019-06-02T16:00:00+05:30",
+  "endDate": "2019-06-02T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2019-06-02/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-06-03T16:30:00+05:30",
+  "endDate": "2017-06-03T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-06-03/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-06-04T16:00:00+05:30",
+  "endDate": "2017-06-04T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-06-04/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-06-06T19:00:00+05:30",
+  "endDate": "2018-06-06T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-06-06/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-06-09T10:00:00+05:30",
+  "endDate": "2024-06-09T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Hub",
+    "address": "Infantry Road,Near MG Road, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_09062024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-06-09/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Bangalore Chess Club is Back! - Bangalore Chess Club",
+  "startDate": "2019-06-09T16:00:00+05:30",
+  "endDate": "2019-06-09T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2019-06-09/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-06-10T16:30:00+05:30",
+  "endDate": "2017-06-10T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-06-10/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-06-11T16:00:00+05:30",
+  "endDate": "2017-06-11T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-06-11/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Second Chess Meetup - Bangalore Chess Club",
+  "startDate": "2015-06-13T15:30:00+05:30",
+  "endDate": "2015-06-13T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2015-06-13/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-06-13T19:00:00+05:30",
+  "endDate": "2018-06-13T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-06-13/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Coffee and Checkmate: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-06-16T10:00:00+05:30",
+  "endDate": "2024-06-16T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Azzure",
+    "address": "MG Road, Shanthala Nagar, Shivaji Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/coffee_and_checkmate_mg.jpeg",
+  
+  "url": "http://localhost:4000/coffee-checkmate/2024-06-16/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-06-17T16:30:00+05:30",
+  "endDate": "2017-06-17T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-06-17/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-06-18T16:00:00+05:30",
+  "endDate": "2017-06-18T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-06-18/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Social Chess After Work - Bangalore Chess Club",
+  "startDate": "2018-06-20T19:00:00+05:30",
+  "endDate": "2018-06-20T21:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2018-06-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-06-23T10:00:00+05:30",
+  "endDate": "2024-06-23T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_23062024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-06-23/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-06-23T16:00:00+05:30",
+  "endDate": "2019-06-23T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-06-23/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-06-24T16:30:00+05:30",
+  "endDate": "2017-06-24T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-06-24/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-06-25T16:00:00+05:30",
+  "endDate": "2017-06-25T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-06-25/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Casual Weeknight chess - Bangalore Chess Club",
+  "startDate": "2017-06-28T19:00:00+05:30",
+  "endDate": "2017-06-28T23:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Aditya's Apartment",
+    "address": "Sobha Magnolia, Bannerghatta Rd, Old Gurappanapalya, BTM Layout, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-06-28/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2024-06-30T10:00:00+05:30",
+  "endDate": "2024-06-30T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_30062024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-06-30/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-06-30T16:00:00+05:30",
+  "endDate": "2019-06-30T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-06-30/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-07-02T16:00:00+05:30",
+  "endDate": "2017-07-02T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-07-02/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-07-07T09:30:00+05:30",
+  "endDate": "2024-07-07T12:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Qube Cafe",
+    "address": "Indiqube, South Summit, South End Rd, Vijayarangam Layout, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/ChessCafe_07072024.png",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-07-07/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-07-07T16:00:00+05:30",
+  "endDate": "2019-07-07T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-07-07/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "The Weekend Chess Megatournament - Bangalore Chess Club",
+  "startDate": "2018-07-08T14:00:00+05:30",
+  "endDate": "2018-07-08T20:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Karnataka Chess Academy",
+    "address": "271, 4th Main Rd, Mahalaxmi Layout, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/5/a/3/1/highres_470303089.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-07-08/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-07-09T16:00:00+05:30",
+  "endDate": "2017-07-09T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-07-09/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-07-14T10:00:00+05:30",
+  "endDate": "2024-07-14T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_14072024.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-07-14/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-07-16T16:00:00+05:30",
+  "endDate": "2017-07-16T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-07-16/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-07-20T10:00:00+05:30",
+  "endDate": "2024-07-20T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Azzure",
+    "address": "MG Road, Shanthala Nagar, Shivaji Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/ChessCafe_20072024.png",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-07-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-07-20T10:00:00+05:30",
+  "endDate": "2024-07-20T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Merwans Cake Stop",
+    "address": "5th Block, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/ChessCafe_20072024.png",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-07-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Coffee and Checkmate: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-07-20T10:00:00+05:30",
+  "endDate": "2024-07-20T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Azzure",
+    "address": "MG Road, Shanthala Nagar, Shivaji Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/coffee_and_checkmate_mg.jpeg",
+  
+  "url": "http://localhost:4000/coffee-checkmate/2024-07-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-07-21T16:00:00+05:30",
+  "endDate": "2019-07-21T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-07-21/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-07-23T16:00:00+05:30",
+  "endDate": "2017-07-23T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-07-23/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekday Casual Chess Scenes - Bangalore Chess Club",
+  "startDate": "2017-07-26T18:30:00+05:30",
+  "endDate": "2017-07-26T22:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "dialogues-cafe",
+    "address": "21, 80 Feet Rd, S.T. Bed, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-07-26/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect Rapid - Bangalore Chess Club",
+  "startDate": "2024-07-28T10:00:00+05:30",
+  "endDate": "2024-07-28T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_28072024.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-07-28/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-07-28T16:00:00+05:30",
+  "endDate": "2019-07-28T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-07-28/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-07-30T16:00:00+05:30",
+  "endDate": "2017-07-30T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-07-30/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "The Weekend Chess Megatournament - Bangalore Chess Club",
+  "startDate": "2018-08-05T15:00:00+05:30",
+  "endDate": "2018-08-05T17:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Karnataka Chess Academy",
+    "address": "271, 4th Main Rd, Mahalaxmi Layout, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/5/a/3/1/highres_470303089.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2018-08-05/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-08-06T16:00:00+05:30",
+  "endDate": "2017-08-06T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-08-06/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess and Cheers - Bangalore Chess Club",
+  "startDate": "2024-08-11T16:00:00+05:30",
+  "endDate": "2024-08-11T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Uru Brewpark",
+    "address": "Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "600",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OflT3lHyXoYGdd/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscheers_11082024.jpeg",
+  
+  "url": "http://localhost:4000/chess-cheers/2024-08-11/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-08-11T16:00:00+05:30",
+  "endDate": "2019-08-11T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-08-11/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "ChessCafe - Bangalore Chess Club",
+  "startDate": "2024-08-15T16:00:00+05:30",
+  "endDate": "2024-08-15T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Board In The City",
+    "address": "7th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OflT3lHyXoYGdd/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/ChessCafe_15082024.jpeg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-08-15/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Blitz - Bangalore Chess Club",
+  "startDate": "2024-08-18T10:00:00+05:30",
+  "endDate": "2024-08-18T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OflT3lHyXoYGdd/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_18082024.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-08-18/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-08-18T16:00:00+05:30",
+  "endDate": "2019-08-18T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-08-18/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-08-20T16:00:00+05:30",
+  "endDate": "2017-08-20T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-08-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2024-08-25T10:00:00+05:30",
+  "endDate": "2024-08-25T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OflT3lHyXoYGdd/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_25082024.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-08-25/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-08-25T16:00:00+05:30",
+  "endDate": "2019-08-25T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-08-25/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-08-27T16:00:00+05:30",
+  "endDate": "2017-08-27T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-08-27/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Team Battle - Bangalore Chess Club",
+  "startDate": "2024-09-01T10:00:00+05:30",
+  "endDate": "2024-09-01T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "200",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OpeyZ8VEPjzUcN/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_teambattle_20240901.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-09-01/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-09-01T16:00:00+05:30",
+  "endDate": "2019-09-01T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-09-01/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-09-03T16:00:00+05:30",
+  "endDate": "2017-09-03T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-09-03/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-09-08T10:00:00+05:30",
+  "endDate": "2024-09-08T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Azzure",
+    "address": "MG Road, Shanthala Nagar, Shivaji Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "300",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OpeyZ8VEPjzUcN/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20240908.jpg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-09-08/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-09-08T16:00:00+05:30",
+  "endDate": "2019-09-08T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-09-08/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-09-10T16:00:00+05:30",
+  "endDate": "2017-09-10T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-09-10/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2021-09-11T16:00:00+05:30",
+  "endDate": "2021-09-11T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/e/2/0/highres_498740000.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2021-09-11/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-09-14T09:30:00+05:30",
+  "endDate": "2024-09-14T12:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Qube Cafe",
+    "address": "Indiqube, South Summit, South End Rd, Vijayarangam Layout, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OpeyZ8VEPjzUcN/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20240914.jpg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-09-14/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-09-15T10:00:00+05:30",
+  "endDate": "2024-09-15T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OpeyZ8VEPjzUcN/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20240915.jpg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-09-15/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Weekly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-09-15T16:00:00+05:30",
+  "endDate": "2019-09-15T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-09-15/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-09-17T16:00:00+05:30",
+  "endDate": "2017-09-17T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-09-17/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess and Cheers - Bangalore Chess Club",
+  "startDate": "2024-09-21T16:00:00+05:30",
+  "endDate": "2024-09-21T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Uru Brewpark",
+    "address": "Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "400",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OpeyZ8VEPjzUcN/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscheers_20240921.jpg",
+  
+  "url": "http://localhost:4000/chess-cheers/2024-09-21/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Blitz - Bangalore Chess Club",
+  "startDate": "2024-09-22T10:00:00+05:30",
+  "endDate": "2024-09-22T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OpeyZ8VEPjzUcN/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20240922.jpg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-09-22/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-09-24T16:30:00+05:30",
+  "endDate": "2017-09-24T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-09-24/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2021-09-25T15:30:00+05:30",
+  "endDate": "2021-09-25T17:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/2/2/3/d/highres_498968765.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2021-09-25/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2024-09-29T10:00:00+05:30",
+  "endDate": "2024-09-29T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_OpeyZ8VEPjzUcN/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20240929.jpg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-09-29/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-10-01T16:00:00+05:30",
+  "endDate": "2017-10-01T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-10-01/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "ChessCafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-10-02T16:00:00+05:30",
+  "endDate": "2024-10-02T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Merwans Cake Stop",
+    "address": "5th Block, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "300",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_P1UeGfqTyKaodP/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20241002.jpg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-10-02/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-10-06T10:00:00+05:30",
+  "endDate": "2024-10-06T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_P1UeGfqTyKaodP/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20241006.jpg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-10-06/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-10-08T16:00:00+05:30",
+  "endDate": "2017-10-08T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-10-08/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Bangalore Chess Club",
+  "startDate": "2023-09-17T10:00:00+05:30",
+  "endDate": "2023-09-17T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Lahe Lahe",
+    "address": "Indiranagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chess-connect-2023-09-10.png",
+  
+  "url": "http://localhost:4000/chess-connect/2024-09-17/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2021-10-09T15:30:00+05:30",
+  "endDate": "2021-10-09T17:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/2/2/3/d/highres_498968765.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2021-10-09/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Over Coffee - Bangalore Chess Club",
+  "startDate": "2015-10-11T15:30:00+05:30",
+  "endDate": "2015-10-11T18:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Coffee Day, Brigade Road",
+    "address": "No. 87, Residency Rd, Ashok Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2015-10-11/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-10-13T09:30:00+05:30",
+  "endDate": "2024-10-13T12:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Qube Cafe",
+    "address": "Indiqube, South Summit, South End Rd, Vijayarangam Layout, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_P1UeGfqTyKaodP/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20241013.jpg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-10-13/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-10-15T16:00:00+05:30",
+  "endDate": "2017-10-15T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-10-15/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess over Coffee - Bangalore Chess Club",
+  "startDate": "2015-10-18T15:30:00+05:30",
+  "endDate": "2015-10-18T18:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cafe Coffee Day, Brigade Road",
+    "address": "No. 87, Residency Rd, Ashok Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2015-10-18/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Team Battle - Bangalore Chess Club",
+  "startDate": "2024-10-20T10:00:00+05:30",
+  "endDate": "2024-10-20T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "200",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_P35obF79mcv8U4/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_teambattle_20241020.jpg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-10-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Monthly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-10-20T16:00:00+05:30",
+  "endDate": "2019-10-20T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-10-20/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-10-22T17:00:00+05:30",
+  "endDate": "2017-10-22T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/9/f/6/8/600_465400808.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2017-10-22/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2021-10-23T15:30:00+05:30",
+  "endDate": "2021-10-23T17:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/2/2/3/d/highres_498968765.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2021-10-23/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2024-10-27T10:00:00+05:30",
+  "endDate": "2024-10-27T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_P1UeGfqTyKaodP/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20241027.jpg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-10-27/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Meetup at ZugZwang Chess Academy - Bangalore Chess Club",
+  "startDate": "2017-10-28T16:00:00+05:30",
+  "endDate": "2017-10-28T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "ZugZwang Academy",
+    "address": "3/2, Ambalipura, next to New Mathaji Hardware, Bellandur Gate, Sarjapur - Marathahalli Rd,, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-10-28/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-10-29T17:00:00+05:30",
+  "endDate": "2017-10-29T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/9/f/6/8/600_465400808.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2017-10-29/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Blitz - Bangalore Chess Club",
+  "startDate": "2024-11-03T10:00:00+05:30",
+  "endDate": "2024-11-03T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PE9rQFCtCNSXgB/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20241103.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-11-03/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Meetup at ZugZwang Chess Academy - Bangalore Chess Club",
+  "startDate": "2017-11-04T16:00:00+05:30",
+  "endDate": "2017-11-04T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "ZugZwang Academy",
+    "address": "3/2, Ambalipura, next to New Mathaji Hardware, Bellandur Gate, Sarjapur - Marathahalli Rd,, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-11-04/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-11-05T17:00:00+05:30",
+  "endDate": "2017-11-05T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2017-11-05/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-11-10T09:30:00+05:30",
+  "endDate": "2024-11-10T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Starbucks",
+    "address": "Building No 804, Avenue 4th Block 9th Main, 35th Cross Rd, near BSNL Office, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PE9rQFCtCNSXgB/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20241110.jpeg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-11-10/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-11-12T17:00:00+05:30",
+  "endDate": "2017-11-12T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2017-11-12/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2021-11-14T15:30:00+05:30",
+  "endDate": "2021-11-14T17:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/2/2/3/d/highres_498968765.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2021-11-14/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess and Cheers - Bangalore Chess Club",
+  "startDate": "2024-11-16T16:00:00+05:30",
+  "endDate": "2024-11-16T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Uru Brewpark",
+    "address": "Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "400",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PE9rQFCtCNSXgB/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscheers_20241116.jpeg",
+  
+  "url": "http://localhost:4000/chess-cheers/2024-11-16/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-11-17T10:00:00+05:30",
+  "endDate": "2024-11-17T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PE9rQFCtCNSXgB/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20241117.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-11-17/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-11-19T17:00:00+05:30",
+  "endDate": "2017-11-19T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2017-11-19/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-11-23T09:30:00+05:30",
+  "endDate": "2024-11-23T12:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Qube Cafe",
+    "address": "Indiqube octa, 643, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PE9rQFCtCNSXgB/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20241123.jpeg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-11-23/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2024-11-24T10:00:00+05:30",
+  "endDate": "2024-11-24T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PE9rQFCtCNSXgB/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20241124.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-11-24/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Monthly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-11-24T16:00:00+05:30",
+  "endDate": "2019-11-24T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-11-24/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Meetup at ZugZwang Chess Academy - Bangalore Chess Club",
+  "startDate": "2017-11-25T16:00:00+05:30",
+  "endDate": "2017-11-25T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "ZugZwang Academy",
+    "address": "3/2, Ambalipura, next to New Mathaji Hardware, Bellandur Gate, Sarjapur - Marathahalli Rd,, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "url": "http://localhost:4000/meetup/2017-11-25/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-11-26T17:00:00+05:30",
+  "endDate": "2017-11-26T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2017-11-26/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2021-11-27T15:30:00+05:30",
+  "endDate": "2021-11-27T17:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/2/2/3/d/highres_498968765.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2021-11-27/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Checkmate Lounge - Bangalore Chess Club",
+  "startDate": "2024-11-30T15:00:00+05:30",
+  "endDate": "2024-11-30T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Uru Brewpark",
+    "address": "Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/checkmate_lounge.jpeg",
+  
+  "url": "http://localhost:4000/checkmate-lounge-20241130/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Checkmate Lounge - Bangalore Chess Club",
+  "startDate": "2024-12-07T15:00:00+05:30",
+  "endDate": "2024-12-07T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/checkmate_lounge.jpeg",
+  
+  "url": "http://localhost:4000/checkmate-lounge/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Checkmate Lounge - Bangalore Chess Club",
+  "startDate": "2024-12-07T15:00:00+05:30",
+  "endDate": "2024-12-07T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Uru Brewpark",
+    "address": "Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/checkmate_lounge.jpeg",
+  
+  "url": "http://localhost:4000/checkmate-lounge/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Checkmate Lounge - Bangalore Chess Club",
+  "startDate": "2024-12-07T15:00:00+05:30",
+  "endDate": "2024-12-07T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Oyster Bar & Kitchen",
+    "address": "3rd floor, 14th Main Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/checkmate_lounge.jpeg",
+  
+  "url": "http://localhost:4000/checkmate-lounge/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Checkmate Lounge - Bangalore Chess Club",
+  "startDate": "2024-12-01T15:00:00+05:30",
+  "endDate": "2024-12-01T19:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/checkmate_lounge.jpeg",
+  
+  "url": "http://localhost:4000/checkmate-lounge-20241201/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-12-03T17:00:00+05:30",
+  "endDate": "2017-12-03T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2017-12-03/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "BCC Chess Meet-up - Bangalore Chess Club",
+  "startDate": "2021-12-12T15:00:00+05:30",
+  "endDate": "2021-12-12T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/1/c/9/8/highres_500707320.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2021-12-12/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-12-14T10:00:00+05:30",
+  "endDate": "2024-12-14T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Starbucks",
+    "address": "Building No 804, Avenue 4th Block 9th Main, 35th Cross Rd, near BSNL Office, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PPap3pzSwsMUWH/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chesscafe_20241214.jpeg",
+  
+  "url": "http://localhost:4000/chess-cafe/2024-12-14/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Monthly Chess Sessions at Freedom Park - Bangalore Chess Club",
+  "startDate": "2019-12-15T16:00:00+05:30",
+  "endDate": "2019-12-15T18:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Freedom Park Parking",
+    "address": "Seshadri Rd, Gandhi Nagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/4/5/c/b/highres_482177867.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2019-12-15/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Themed Chess Tournament - Bangalore Chess Club",
+  "startDate": "2017-12-17T17:00:00+05:30",
+  "endDate": "2017-12-17T19:15:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "urban-solace",
+    "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/7/8/f/d/event_465630973.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2017-12-17/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-12-22T10:00:00+05:30",
+  "endDate": "2024-12-22T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PPap3pzSwsMUWH/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20241222.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-12-22/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Bangalore Chess Club Meet-up - Bangalore Chess Club",
+  "startDate": "2021-12-26T15:00:00+05:30",
+  "endDate": "2021-12-26T17:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Cubbon Park Bandstand",
+    "address": "Cubbon Park, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://secure.meetupstatic.com/photos/event/3/4/6/highres_501000838.jpeg",
+  
+  "url": "http://localhost:4000/meetup/2021-12-26/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2024-12-29T10:00:00+05:30",
+  "endDate": "2024-12-29T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PPap3pzSwsMUWH/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/chessconnect_20241229.jpeg",
+  
+  "url": "http://localhost:4000/chess-connect/2024-12-29/"
+}
+      ,
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Check-in Chess - Bangalore Chess Club",
+  "startDate": "",
+  "endDate": "",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Starbucks",
+    "address": "Building No 804, Avenue 4th Block 9th Main, 35th Cross Rd, near BSNL Office, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "http://localhost:4000/images/check_in_chess_square.png",
+  
+  "url": "http://localhost:4000/check-in-chess/"
+}
+      
+]

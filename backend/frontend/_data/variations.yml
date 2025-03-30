@@ -1,0 +1,105 @@
+standard-swiss:
+    name: Casual Standard Chess (Swiss Format)
+    description: |
+        Immerse yourself in the world of traditional chess in an exhilarating
+        Swiss Format tournament. Over 6-7 rounds, face opponents of
+        similar skill levels, and enjoy the games with a mix of banter and
+        a laid-back vibe. It's not just about winning, but about the
+        shared love for the game and the camaraderie that makes every move
+        memorable.
+960-swiss:
+    name: Casual Chess960 (Swiss Format)
+    description: |
+        Step into the exciting world of Chess960, where creativity and adaptability
+        take center stage! In this Swiss Format tournament spanning 6-7 rounds, 
+        experience a fresh challenge as the starting positions are randomized, 
+        testing your ingenuity from move one. Enjoy the thrill of strategic surprises, friendly banter,
+        and a relaxed atmosphere, all while celebrating the joy of chess in its most dynamic form.
+hand-brain-swiss:
+    name: Casual Hand & Brain Chess (Swiss Format)
+    description: |
+        Dive into the fun and collaborative world of Hand & Brain chess! In this Swiss Format tournament spanning 6-7 rounds, 
+        pair up with a partner to strategize and laugh your way through each game. 
+        One of you will be the "Brain," calling out the type of piece to move, while the other, the "Hand," makes the actual moves on the board. 
+        It's a perfect blend of teamwork, creativity, and friendly banter, making every match an unforgettable experience. 
+        Celebrate chess in its most interactive and entertaining form!
+bughouse-swiss:
+    name: Casual Bughouse Chess (Swiss Format)
+    description: |
+        Experience the fast-paced excitement of Bughouse Chess in this Swiss Format tournament spanning 6-7 rounds!  
+        Team up with a partner and enjoy the thrill of capturing pieces and passing them to your teammate for instant reinforcements.  
+        With quick decision-making, dynamic strategies, and nonstop action, Bughouse is a wildly entertaining variant that keeps everyone on their toes.  
+        Whether you're a seasoned Bughouse player or trying it for the first time, get ready for chaotic fun, tactical brilliance, and lots of laughter!  
+
+triathlon-swiss:
+    name: Chess Triathlon (Swiss Format)
+    description: |
+        Test your versatility across three exciting chess formats in this unique Swiss Format tournament!  
+        Compete in 9 rounds, starting with fast-paced Blitz, followed by the creative challenge of Freestyle Chess (Chess960),  
+        and wrapping up with strategic Rapid games. With a mix of speed, adaptability, and deep calculation,  
+        this event is the ultimate test of all-around chess skills. Whether you're a seasoned player or up for a fun challenge,  
+        embrace the thrill of switching formats and make every move count!  
+
+
+standard-swiss-5-rounds:
+    name: Standard Chess
+    description: 5 Rounds of Swiss Chess followed by a Semi Final and Finale!
+        All games will be 5+3 Blitz
+standard-knockout:
+    name: Casual Standard Chess (Knockout Format)
+    description: |
+        Step into the
+        world of traditional chess and compete in an exhilarating knockout format.
+        Test your skills against fellow enthusiasts and see who emerges as the
+        ultimate chess champion.
+hand&brain:
+    name: Hand & Brain Chess
+    description: |
+        Team up with a partner in this
+        intriguing chess variant where one player becomes the "Brain" and selects
+        a piece type to be moved, while the other player becomes the "Hand" and
+        must execute the chosen moves. It's a test of teamwork, strategy, and
+        communication.
+bughouse:
+    name: Bughouse Chess (Supply Chess)
+    description: |
+        Brace yourselves for the
+        fast-paced action of Bughouse Chess. Work with a teammate on two
+        chessboards, share captured pieces, and unleash your combined tactical
+        prowess. It's a dynamic chess experience like no other.
+antichess:
+    name: Anti Chess
+    description: |
+        Get ready for a twist on traditional chess with Anti Chess! 
+        The goal is to lose all your pieces or get stalemated,flipping the usual strategy on its head. 
+        Sacrifice and clever tactics are the key in this fun, unpredictable variant.
+swiss-team-4:
+    name: Swiss Team Chess (Teams of 4)
+    description: |
+        Engage in a
+        Swiss-format tournament designed for teams of four. Over 6-7
+        rounds, your team will compete against others of similar skill
+        levels, fostering a sense of camaraderie and team spirit. It’s not
+        just about winning but enjoying the game and making every move
+        count with your team.
+standard-arena:
+    name: Casual Standard Chess (Arena Format)
+    description: |
+        Welcome to our Arena Format chess tournament, where the excitement
+        never stops! In this dynamic event, participants engage in blitz
+        matches against opponents of all skill levels. With the
+        flexibility to join or leave at any time, and matches happening
+        continuously, players can jump in for a game whenever they please.
+        Whether you're a seasoned player or just starting out, the Arena
+        Format offers an accessible and inclusive environment for everyone
+        to enjoy the thrill of chess. Join us for a fast-paced and
+        exhilarating chess experience where every move matters, and
+        victory awaits the bold!
+simul:
+    name: Simultaneous Chess Exhibition
+    description: |
+        Experience the thrill of a
+        simultaneous chess exhibition, where a skilled player takes on
+        multiple opponents at once. Test your skills against a master
+        player, and see if you have what it takes to outwit them in this
+        exciting and challenging format.

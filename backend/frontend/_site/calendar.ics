@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:bangalorechessclub.in/events
+CALSCALE:GREGORIAN
+NAME:Bangalore Chess Club
+X-WR-CALNAME:Bangalore Chess Club
+X-ORIGINAL-URL:http://localhost:4000/calendar.ics
+X-WR-CALDESC:Bangalore Chess Club Events
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:index
+X-PUBLISHED-TTL:PT1H
+TIMEZONE-ID:Asia/Kolkata
+X-WR-TIMEZONE:Asia/Kolkata
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-cafe/2025-03-30/
+URL:http://localhost:4000/chess-cafe/2025-03-30/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250330T100000+05:30
+DTEND:20250330T123000+05:30
+SUMMARY:Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club
+DESCRIPTION:Event Details  ChessCafe - Powered by Enterro:Join us for an exciting gathering of chess aficionados where we’ll becombining our passion for the game with the pleasure of sipping on freshlybrewed coffee. This event is all about camaraderie, friendly competition, andenjoying the intellectual challenge that chess brings.What’s Included  Ticket includes food coupon ₹200  Chance to win Premium Wooden Chess Sets from Enterro Chess through a Lucky Draw  3 Hours of multiple Fun-filled Chess Variants
+LOCATION:Starbucks 55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chesscafe_20250330.jpg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-03-23/
+URL:http://localhost:4000/chess-connect/2025-03-23/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250323T100000+05:30
+DTEND:20250323T153000+05:30
+SUMMARY:Chess Connect - Rapid - Bangalore Chess Club
+DESCRIPTION:Event Details:Join us for our next chess meetup for a fantastic chessspirit!Whether you’re a seasoned player or just discovering your lovefor the game, come embrace the thrill of chess, forge new connections, andmake every move count.Mark your calendar, bring your passion for chess, and get ready to create some remarkable memories with fellow chess enthusiasts. We can`t wait to see you at “Chess Connect”!What’s Included:  5 Hours of Rapid Chess (Format 10+5)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky DrawSchedule  Registration and Player Briefing (10:00 AM)  Round 1 (10:20 AM)  Round 2 (11:00 AM)  Round 3 (11:40 AM)  Round 4 (12:15 PM)  Lunch Break (12:40 PM)  Round 5 (1:30 PM)  Round 6 (2:10 PM)  Round 7 (2:45 PM)
+LOCATION:The Market Place Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250323.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-cheers/2025-03-22/
+URL:http://localhost:4000/chess-cheers/2025-03-22/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250322T160000+05:30
+DTEND:20250322T190000+05:30
+SUMMARY:Chess and Cheers: Hand & Brain - Bangalore Chess Club
+DESCRIPTION:Event Details  Chess and Cheers - Powered by Enterro:Step into the ultimate Hand &amp; Brain edition of Chess &amp; Cheers at Uru Brewery! This event celebrates teamwork, creativity, and quick thinking like never before! In this special format, one partner becomes the “Brain,” calling out the type of piece to move, while the other, the “Hand,” brings the strategy to life on the board.It’s a game of trust, laughter, and surprises, where collaboration is the key to victory.Special Pair Offer: Come as a mixed pair (one male, one female) and get a ₹200 discount on your total entry fee!Please Note: The discount is only applicable if your team consists of one male and one female. If the pair is not mixed, the discount will not be valid.Disclaimer: Drinks will be served at URU. Kids are welcome to join but must be accompanied by their parentsWhat’s Included  Chance to win Premium Wooden Chess Sets from Enterro Chess through a Lucky Draw  3 Hours of multiple Fun-filled Hand&amp;Brain Chess  Ticket includes Food/Beverage coupon worth ₹200
+LOCATION:Uru Brewpark Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chesscheers_20250322.jpg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-03-16/
+URL:http://localhost:4000/chess-connect/2025-03-16/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250316T100000+05:30
+DTEND:20250316T130000+05:30
+SUMMARY:Chess Connect: Team Battle - Bangalore Chess Club
+DESCRIPTION:Event Details:Join us for the next edition of Chess Connect, this time with athrilling team twist!Whether you’re an experienced player ora newcomer, come experience the excitement of team-based chess, makenew friends, and enjoy a day of strategic fun.Event Highlights  Team Format: Teams of 4 players  Swiss Style: A Swiss-system tournament to ensure exciting matchups.  Chance to Win Premium Chess Sets from Paramount Chess  Prizes: Attractive BCC goodies for top teams.  Game Format: Swiss Team Blitz Chess (Format 5+3)Registration Details  Individual registration : Don’t have a team? No problem! Register as an individual, and we’ll group you with others based on skill levels to form balanced teams for thrilling matchups.  Team registration : Already have a team of four? Register together and dive straight into the team competition!
+LOCATION:The Market Place RMZ EcoWorld 30-33, Bellandur, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250316.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-03-15/
+URL:http://localhost:4000/chess-connect/2025-03-15/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250315T160000+05:30
+DTEND:20250315T190000+05:30
+SUMMARY:Chess Connect: FreeStyle - Bangalore Chess Club
+DESCRIPTION:Event Details:Step into the World of Freestyle Chess at “Chess Connect”!Get ready to experience the thrill of Chess960, where creativity takes the lead, and every game is a new adventure! With randomized starting positions, this freestyle format challenges your strategic skills and adds an exciting twist to traditional chess.Join us to embrace the unexpected, connect with fellow chess lovers, and create memorable moments over a shared passion for the game. Let’s make every move count!🔞 Age Restriction: 21+🍹 Exclusive Offer: Get a 10% additional discount on your food bill if you avail the 31 offer on the beverage menu (every second drink at ₹31).What’s Included:  Ticket includes food coupon ₹200  3 Hours of Blitz Chess in 960 Format (Format 5+3)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky Draw
+LOCATION:Gilly's Super Bar 2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250315.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-03-09/
+URL:http://localhost:4000/chess-connect/2025-03-09/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250309T100000+05:30
+DTEND:20250309T153000+05:30
+SUMMARY:Chess Connect - Triathlon - Bangalore Chess Club
+DESCRIPTION:Event DetailsJoin us for Chess Connect - Triathlon, a one-of-a-kind chess challenge that tests your versatility across three exciting formats! Compete in 9 Swiss rounds, starting with Blitz (5+3), followed by Freestyle Chess (Chess960, 5+3), and concluding with Rapid (10+5) after a lunch break.Whether you’re a speed chess enthusiast, a fan of creative openings, or a strategic mastermind, this event is perfect for you! Connect with fellow chess lovers, test your adaptability, and enjoy a thrilling chess marathon.What’s Included:  9 rounds of chess in three formats:          Blitz (5+3) – 3 rounds      Freestyle Chess (5+3) – 3 rounds      Rapid (10+5) – 3 rounds        Special prizes for the Top 3 players  Chance to win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to win a Chess.com Diamond Membership through a Lucky DrawSchedule      Registration &amp; Player Briefing – 10:00 AM        Blitz (5+3) Rounds:          Round 1 – 10:20 AM      Round 2 – 10:45 AM      Round 3 – 11:10 AM            Freestyle Chess (5+3) Rounds:          Round 4 – 11:40 AM      Round 5 – 12:05 PM      Round 6 – 12:30 PM            Lunch Break – 12:50 PM        Rapid (10+5) Rounds:          Round 7 – 1:30 PM      Round 8 – 2:10 PM      Round 9 – 3:00 PM      
+LOCATION:The Market Place Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250309.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-cafe/2025-03-08/
+URL:http://localhost:4000/chess-cafe/2025-03-08/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250308T100000+05:30
+DTEND:20250308T123000+05:30
+SUMMARY:Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club
+DESCRIPTION:Event Details  ChessCafe - Powered by Enterro Chess: Join us for an exciting gathering of chess aficionados where we’ll becombining our passion for the game with the pleasure of sipping on freshlybrewed coffee. This event is all about camaraderie, friendly competition, andenjoying the intellectual challenge that chess brings.What’s Included  Ticket includes food coupon ₹200  Chance to win Premium Wooden Chess Sets from Enterro Chess through a Lucky Draw  3 Hours of multiple Fun-filled Chess Variants
+LOCATION:Starbucks Building No 804, Avenue 4th Block 9th Main, 35th Cross Rd, near BSNL Office, Jayanagar, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chesscafe_20250308.jpg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-03-02/
+URL:http://localhost:4000/chess-connect/2025-03-02/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250302T100000+05:30
+DTEND:20250302T130000+05:30
+SUMMARY:Chess Connect - Blitz - Bangalore Chess Club
+DESCRIPTION:Event Details:Join us for our next chess meetup for a fantastic chessspirit!Whether you’re a seasoned player or just discovering your lovefor the game, come embrace the thrill of chess, forge new connections, andmake every move count.Mark your calendar, bring your passion for chess, and get ready to create some remarkable memories with fellow chess enthusiasts.We can`t wait to see you at “Chess Connect”!What’s Included:  3 Hours of Blitz Chess (Format 5+3)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky Draw
+LOCATION:The Market Place RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250302.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-02-23/
+URL:http://localhost:4000/chess-connect/2025-02-23/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250223T100000+05:30
+DTEND:20250223T153000+05:30
+SUMMARY:Chess Connect - Rapid - Bangalore Chess Club
+DESCRIPTION:Event Details:Join us for our next chess meetup for a fantastic chessspirit!Whether you’re a seasoned player or just discovering your lovefor the game, come embrace the thrill of chess, forge new connections, andmake every move count.Mark your calendar, bring your passion for chess, and get ready to create some remarkable memories with fellow chess enthusiasts. We can`t wait to see you at “Chess Connect”!What’s Included:  5 Hours of Rapid Chess (Format 10+5)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky DrawSchedule  Registration and Player Briefing (10:00 AM)  Round 1 (10:20 AM)  Round 2 (11:00 AM)  Round 3 (11:40 AM)  Round 4 (12:15 PM)  Lunch Break (12:40 PM)  Round 5 (1:30 PM)  Round 6 (2:10 PM)  Round 7 (2:45 PM)
+LOCATION:The Market Place RMZ EcoWorld 30-33, Bellandur, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250223.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-02-16/
+URL:http://localhost:4000/chess-connect/2025-02-16/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250216T100000+05:30
+DTEND:20250216T130000+05:30
+SUMMARY:Chess Connect - Blitz - Bangalore Chess Club
+DESCRIPTION:Event Details:Join us for our next chess meetup for a fantastic chessspirit!Whether you’re a seasoned player or just discovering your lovefor the game, come embrace the thrill of chess, forge new connections, andmake every move count.Mark your calendar, bring your passion for chess, and get ready to create some remarkable memories with fellow chess enthusiasts.We can`t wait to see you at “Chess Connect”!What’s Included:  3 Hours of Blitz Chess (Format 5+3)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky Draw
+LOCATION:The Market Place Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250216.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-cafe/2025-02-15/
+URL:http://localhost:4000/chess-cafe/2025-02-15/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250215T100000+05:30
+DTEND:20250215T123000+05:30
+SUMMARY:Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club
+DESCRIPTION:Event DetailsJoin us for an exciting gathering of chess aficionados where we’ll becombining our passion for the game with the pleasure of sipping on freshlybrewed coffee. This event is all about camaraderie, friendly competition, andenjoying the intellectual challenge that chess brings.What’s Included  Ticket includes food coupon ₹200  3 Hours of multiple Fun-filled Chess Variants
+LOCATION:Starbucks 55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chesscafe_20250215.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-cheers/2025-02-09/
+URL:http://localhost:4000/chess-cheers/2025-02-09/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250209T160000+05:30
+DTEND:20250209T190000+05:30
+SUMMARY:Chess and Cheers: Hand & Brain - Bangalore Chess Club
+DESCRIPTION:Event DetailsStep into the ultimate Hand &amp; Brain edition of Chess &amp; Cheers at Uru Brewery! This event celebrates teamwork, creativity, and quick thinking like never before! In this special format, one partner becomes the “Brain,” calling out the type of piece to move, while the other, the “Hand,” brings the strategy to life on the board.It’s a game of trust, laughter, and surprises, where collaboration is the key to victory.Special Pair Offer: Come as a mixed pair (one male, one female) and get a ₹200 discount on your total entry fee!Please Note: The discount is only applicable if your team consists of one male and one female. If the pair is not mixed, the discount will not be valid.What’s Included  3 Hours of multiple Fun-filled Hand&amp;Brain Chess  Ticket includes Food/Beverage coupon worth ₹200
+LOCATION:Uru Brewpark Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chesscheers_20250209.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-02-08/
+URL:http://localhost:4000/chess-connect/2025-02-08/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250208T160000+05:30
+DTEND:20250208T190000+05:30
+SUMMARY:Chess Connect: FreeStyle - Bangalore Chess Club
+DESCRIPTION:Event Details:Step into the World of Freestyle Chess at “Chess Connect”!Get ready to experience the thrill of Chess960, where creativity takes the lead, and every game is a new adventure! With randomized starting positions, this freestyle format challenges your strategic skills and adds an exciting twist to traditional chess.Join us to embrace the unexpected, connect with fellow chess lovers, and create memorable moments over a shared passion for the game. Let’s make every move count!  Disclaimer: Drinks will be served at Kaavu. Kids are welcome to join but must be accompanied by their parentsWhat’s Included:  Ticket includes food coupon ₹200  3 Hours of Blitz Chess in 960 Format (Format 5+3)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky Draw
+LOCATION:Kaavu Pattandur Agrahara Rd, Siddapura, Brookefield, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250208.png
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-02-02/
+URL:http://localhost:4000/chess-connect/2025-02-02/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250202T100000+05:30
+DTEND:20250202T130000+05:30
+SUMMARY:Chess Connect - Blitz - Bangalore Chess Club
+DESCRIPTION:Event Details:Join us for our next chess meetup for a fantastic chessspirit!Whether you’re a seasoned player or just discovering your lovefor the game, come embrace the thrill of chess, forge new connections, andmake every move count.Mark your calendar, bring your passion for chess, and get ready to create some remarkable memories with fellow chess enthusiasts.We can`t wait to see you at “Chess Connect”!What’s Included:  3 Hours of Blitz Chess (Format 5+3)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky Draw
+LOCATION:The Market Place RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250202.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-01-26/
+URL:http://localhost:4000/chess-connect/2025-01-26/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250126T100000+05:30
+DTEND:20250126T153000+05:30
+SUMMARY:Chess Connect - Rapid - Bangalore Chess Club
+DESCRIPTION:Event DetailsPlay chess, make a difference! Join us for a special Chess Connect meetup where every move supports a greater cause. All proceeds from this event will be donated to HelpChess.org, an initiative by ChessBase India empowering young chess talents across the country. Whether you’re a seasoned player or a beginner, this is your chance to enjoy the thrill of chess while contributing to something meaningful. Let’s come together, play with purpose, and make an impact. See you at Chess Connect!What’s Included  Ticket sales will be donated to Helpchess (https://helpchess.org/)  5 Hours of Rapid Chess (Format 10+5)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky DrawSchedule  Registration and Player Briefing (10:00 AM)  Round 1 (10:15 AM)  Round 2 (10:50 AM)  Round 3 (11:25 AM)  Round 4 (12:00 PM)  Lunch Break (12:35 PM)  Round 5 (1:20 PM)  Round 6 (1:55 PM)  Round 7 (2:30 PM)
+LOCATION:The Market Place Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250126.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-cafe/2025-01-25/
+URL:http://localhost:4000/chess-cafe/2025-01-25/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250125T100000+05:30
+DTEND:20250125T123000+05:30
+SUMMARY:Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club
+DESCRIPTION:Event DetailsJoin us for an exciting gathering of chess aficionados where we’ll becombining our passion for the game with the pleasure of sipping on freshlybrewed coffee. This event is all about camaraderie, friendly competition, andenjoying the intellectual challenge that chess brings.What’s Included  Ticket includes food coupon ₹200  3 Hours of multiple Fun-filled Chess Variants
+LOCATION:Starbucks Building No 804, Avenue 4th Block 9th Main, 35th Cross Rd, near BSNL Office, Jayanagar, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chesscafe_20250125.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-01-19/
+URL:http://localhost:4000/chess-connect/2025-01-19/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250119T100000+05:30
+DTEND:20250119T130000+05:30
+SUMMARY:Chess Connect: Team Battle - Bangalore Chess Club
+DESCRIPTION:Event Details:Join us for the next edition of Chess Connect, this time with athrilling team twist!Whether you’re an experienced player ora newcomer, come experience the excitement of team-based chess, makenew friends, and enjoy a day of strategic fun.Event Highlights  Team Format: Teams of 4 players  Swiss Style: A Swiss-system tournament to ensure exciting matchups.  Chance to Win Premium Chess Sets from Paramount Chess  Prizes: Attractive BCC goodies for top teams.  Game Format: Swiss Team Blitz Chess (Format 5+3)Registration Details  Individual registration : Don’t have a team? No problem! Register as an individual, and we’ll group you with others based on skill levels to form balanced teams for thrilling matchups.  Team registration : Already have a team of four? Register together and dive straight into the team competition!
+LOCATION:The Market Place RMZ EcoWorld 30-33, Bellandur, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250119.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-cafe/2025-01-12/
+URL:http://localhost:4000/chess-cafe/2025-01-12/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250112T160000+05:30
+DTEND:20250112T190000+05:30
+SUMMARY:Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club
+DESCRIPTION:Event DetailsJoin us for an exciting gathering of chess aficionados where we’ll becombining our passion for the game with the pleasure of sipping on freshlybrewed coffee. This event is all about camaraderie, friendly competition, andenjoying the intellectual challenge that chess brings.What’s Included  Ticket includes food coupon ₹200  3 Hours of multiple Fun-filled Chess Variants
+LOCATION:Slay Coffee Ground Floor, I Sector 16th Cross, 27th Main Rd, opp. NIFT College, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chesscafe_20250112.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-01-11/
+URL:http://localhost:4000/chess-connect/2025-01-11/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250111T160000+05:30
+DTEND:20250111T190000+05:30
+SUMMARY:Chess Connect: FreeStyle - Bangalore Chess Club
+DESCRIPTION:Event Details:Step into the World of Freestyle Chess at “Chess Connect”!Get ready to experience the thrill of Chess960, where creativity takes the lead, and every game is a new adventure! With randomized starting positions, this freestyle format challenges your strategic skills and adds an exciting twist to traditional chess.Join us to embrace the unexpected, connect with fellow chess lovers, and create memorable moments over a shared passion for the game. Let’s make every move count!  Disclaimer: Drinks will be served at Kaavu. Kids are welcome to join but must be accompanied by their parentsWhat’s Included:  Ticket includes food coupon ₹200  3 Hours of Blitz Chess in 960 Format (Format 5+3)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky Draw
+LOCATION:Kaavu Pattandur Agrahara Rd, Siddapura, Brookefield, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250111.jpeg
+
+END:VEVENT
+
+
+
+
+BEGIN:VEVENT
+UID:http://localhost:4000/chess-connect/2025-01-05/
+URL:http://localhost:4000/chess-connect/2025-01-05/
+DTSTAMP:20250330T185907+05:30
+DTSTART:20250105T100000+05:30
+DTEND:20250105T130000+05:30
+SUMMARY:Chess Connect: Making Chess Fun - Bangalore Chess Club
+DESCRIPTION:Event Details:Join us for our next chess meetup for a fantastic chessspirit!Whether you’re a seasoned player or just discovering your lovefor the game, come embrace the thrill of chess, forge new connections, andmake every move count.Mark your calendar, bring your passion for chess, and get ready to create some remarkable memories with fellow chess enthusiasts.We can`t wait to see you at “Chess Connect”!What’s Included:  3 Hours of Blitz Chess (Format 5+3)  Special Prizes for the Top 3 Players  Chance to Win Premium Chess Sets from Paramount Chess through a Lucky Draw  Chance to Win a Chess.com Diamond Membership through Lucky Draw
+LOCATION:The Market Place RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India
+
+ATTACH:http://localhost:4000/images/chessconnect_20250105.jpeg
+
+END:VEVENT
+
+
+END:VCALENDAR

@@ -1,0 +1,143 @@
+---
+layout: default
+title: "Submit a New Event"
+permalink: /new-events/
+---
+
+<style>
+    /* New Event Form Styles */
+.new-event-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.new-event-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.new-event-form label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.new-event-form input,
+.new-event-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.new-event-form textarea {
+    height: 100px;
+    resize: vertical;
+}
+
+.new-event-submit {
+    width: 100%;
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.new-event-submit:hover {
+    background: #0056b3;
+}
+</style>
+<div class="new-event-container">
+    <h1 class="new-event-title">Create a New Event</h1>
+    <form id="eventForm" class="new-event-form">
+        <label for="title">Event Title:</label>
+        <input type="text" id="title" class="new-event-input" required>
+
+        <label for="location">Location:</label>
+        <input type="text" id="location" class="new-event-input" required>
+
+        <label for="variations">Variations (comma-separated):</label>
+        <input type="text" id="variations" class="new-event-input">
+
+        <label for="sponsor">Sponsor:</label>
+        <input type="text" id="sponsor" class="new-event-input">
+
+        <label for="image">Image Filename:</label>
+        <input type="text" id="image" class="new-event-input" required>
+
+        <label for="startsAt">Start Date & Time:</label>
+        <input type="datetime-local" id="startsAt" class="new-event-input" required>
+
+        <label for="endsAt">End Date & Time:</label>
+        <input type="datetime-local" id="endsAt" class="new-event-input">
+
+        <label for="permalink">Permalink:</label>
+        <input type="text" id="permalink" class="new-event-input" required>
+
+        <label for="price">Price (₹):</label>
+        <input type="number" id="price" class="new-event-input" required>
+
+        <label for="razorpay">Razorpay ID:</label>
+        <input type="text" id="razorpay" class="new-event-input" required>
+
+        <label for="details">Event Details:</label>
+        <textarea id="details" class="new-event-textarea" required></textarea>
+
+        <button type="submit" class="new-event-submit">Create Event</button>
+    </form>
+</div>
+
+<script>
+    document.getElementById("eventForm").addEventListener("submit", async function (e) {
+    e.preventDefault();
+
+    // Extract form data
+    const eventData = {
+        title: document.getElementById("title").value,
+        location: document.getElementById("location").value,
+        variations: document.getElementById("variations").value.split(",").map(v => v.trim()), // Send as an array
+        sponsor: document.getElementById("sponsor").value,
+        image: document.getElementById("image").value,
+        startsAt: document.getElementById("startsAt").value,
+        endsAt: document.getElementById("endsAt").value,
+        permalink: document.getElementById("permalink").value,
+        payment: {
+            price: document.getElementById("price").value,
+            razorpay: document.getElementById("razorpay").value
+        },
+        details: document.getElementById("details").value
+    };
+
+    try {
+        // Send POST request
+        const response = await fetch("http://localhost:8000/api/events/create_file/", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(eventData)
+        });
+        console.log("Response:", response);
+        if (response.ok) {
+            alert("Event successfully created!");
+        } else {
+            const errorData = await response.json();
+            alert("Error: " + (errorData.message || "Failed to create event"));
+        }
+    } catch (error) {
+        console.error("Request failed:", error);
+        alert("Could not connect to the server.");
+    }
+    });
+</script>    

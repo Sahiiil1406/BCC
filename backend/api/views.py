@@ -8,6 +8,12 @@ from django.utils.dateparse import parse_datetime
 from django.shortcuts import render, get_object_or_404, redirect
 from .models import Event
 from .forms import EventForm
+import os
+from django.conf import settings
+
+
+EVENTS_DIR = os.path.join(settings.BASE_DIR, "frontend", "events", "2025")
+os.makedirs(EVENTS_DIR, exist_ok=True)
 
 def home(request):
     return JsonResponse({"message": "Welcome to the Events API"})
@@ -142,3 +148,85 @@ def event_detail(request, pk):
             return JsonResponse(event_data)
     except (ValueError, TypeError):
         return JsonResponse({"error": "Invalid ID format"}, status=400)
+
+@csrf_exempt
+def event_create_file(request):
+    if request.method == "OPTIONS":
+        # Handle CORS preflight request
+        response = JsonResponse({"message": "CORS preflight successful"})
+        response["Access-Control-Allow-Origin"] = "*"
+        response["Access-Control-Allow-Methods"] = "POST, OPTIONS"
+        response["Access-Control-Allow-Headers"] = "Content-Type"
+        return response
+
+    if request.method == 'POST':
+        try:
+            # Print request body for debugging
+            print("Received POST request with body:", request.body.decode('utf-8'))
+
+            # Parse JSON data
+            data = json.loads(request.body)
+
+            # Debugging print
+            print("Parsed JSON data:", data)
+
+            # Validate and parse dates
+            starts_at = parse_datetime(data.get('startsAt'))
+            ends_at = parse_datetime(data.get('endsAt'))
+            if not starts_at or not ends_at:
+                print("Invalid date format")
+                return JsonResponse({"error": "Invalid date format"}, status=400)
+
+            # Generate filename
+            safe_permalink = data.get('permalink', "").replace("/", "-")
+            safe_permalink = safe_permalink[:-1]
+            filename = f"{starts_at.strftime('%m-%d')}{safe_permalink}.md"
+            filepath = os.path.join(EVENTS_DIR, filename)
+
+            # Format variations
+            variations_list = data.get('variations', [])
+            if not isinstance(variations_list, list):
+                return JsonResponse({"error": "Variations should be a list"}, status=400)
+            formatted_variations = "\n".join([f"- {v.strip()}" for v in variations_list])
+
+            # Generate Markdown content
+            markdown_content = f"""---
+title: "{data.get('title')}"
+location: {data.get('location')}
+variations:
+{formatted_variations}
+layout: event
+sponsor: {data.get('sponsor')}
+image: {data.get('image')}
+startsAt: {data.get('startsAt')}
+endsAt: {data.get('endsAt')}
+permalink: /events/{data.get('permalink')}/
+payment:
+  price: {data.get('price')}
+  razorpay: {data.get('razorpay_Id')}
+---
+
+## Event Details
+{data.get('details')}
+"""
+
+            # Save to Markdown file
+            with open(filepath, 'w', encoding='utf-8') as file:
+                file.write(markdown_content)
+
+            print("File saved successfully:", filepath)
+
+            return JsonResponse({
+                "message": "Event saved successfully",
+                "file": filename
+            }, status=201)
+
+        except json.JSONDecodeError as e:
+            print("JSON Decode Error:", str(e))
+            return JsonResponse({"error": "Invalid JSON"}, status=400)
+        except Exception as e:
+            print("Unexpected error:", str(e))
+            return JsonResponse({"error": str(e)}, status=400)
+
+    print("Method not allowed:", request.method)
+    return JsonResponse({"error": "Only POST method allowed"}, status=405)
