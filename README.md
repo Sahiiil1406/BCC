@@ -1,5 +1,22 @@
 # Django Project Setup Guide
 
+### Clone the repository
+```bash
+git clone https://github.com/Sahiiil1406/BCC
+
+# Navigate to folder BCC
+cd BCC
+```
+
+### Create .env file
+
+```bash
+cp .env.example .env
+```
+- Fill in the required variables in the .env file
+<br>
+- <b>This is required for the database connection using PostgreSQL
+
 ### Initial Setup
 
 ```bash
@@ -13,16 +30,9 @@ venv\Scripts\activate
 source venv/bin/activate
 
 # Install Django
-pip install django
+pip install -r requirements.txt
 ```
 
-### Clone the repository
-```bash
-git clone https://github.com/Sahiiil1406/BCC
-
-# Navigate to folder BCC
-cd BCC
-```
 
 
 ### Database Migrations
