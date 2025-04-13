@@ -205,12 +205,15 @@ startsAt: {data.get('startsAt')}
 endsAt: {data.get('endsAt')}
 permalink: /events/{data.get('permalink')}/
 payment:
-  price: {data.get('price')}
-  razorpay: {data.get('razorpay_Id')}
+  price: {data.get('payment', {}).get('price')}
+  razorpay: {data.get('payment', {}).get('razorpay')}
 ---
 
 ## Event Details
 {data.get('details')}
+
+## What's Included
+{data.get('whats_included')}
 """
 
             # Save to Markdown file

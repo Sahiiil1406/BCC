@@ -1,0 +1,175 @@
+---
+layout: default
+title: "Login"
+permalink: /login/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <style>
+    .login-container {
+      max-width: 400px;
+      margin: 80px auto;
+      padding: 30px;
+      background-color: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #333;
+    }
+    
+    .form-group {
+      margin-bottom: 20px;
+    }
+    
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 500;
+      color: #555;
+    }
+    
+    input[type="text"],
+    input[type="password"] {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 16px;
+      transition: border-color 0.3s;
+    }
+    
+    input[type="text"]:focus,
+    input[type="password"]:focus {
+      border-color: #4a90e2;
+      outline: none;
+    }
+    
+    button {
+      width: 100%;
+      padding: 12px;
+      background-color: #4a90e2;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    
+    button:hover {
+      background-color: #3a7bc8;
+    }
+    
+    .alert {
+      padding: 12px;
+      margin-bottom: 20px;
+      border-radius: 4px;
+      display: none;
+    }
+    
+    .alert-danger {
+      background-color: #f8d7da;
+      color: #721c24;
+      border: 1px solid #f5c6cb;
+    }
+    
+    .alert-success {
+      background-color: #d4edda;
+      color: #155724;
+      border: 1px solid #c3e6cb;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-container">
+    <h1>Login</h1>
+    
+    <div id="alert-message" class="alert"></div>
+    
+    <form id="login-form">
+      <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" required>
+      </div>
+      
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required>
+      </div>
+      
+      <button type="submit">Sign In</button>
+    </form>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const loginForm = document.getElementById('login-form');
+      const alertMessage = document.getElementById('alert-message');
+      
+      loginForm.addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        const username = document.getElementById('username').value;
+        const password = document.getElementById('password').value;
+        
+        // Create request payload
+        const payload = {
+          username: username,
+          password: password
+        };
+        
+        // Send login request
+        fetch('http://localhost:8000/login', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(payload)
+        })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Login failed. Please check your credentials.');
+          }
+          return response.json();
+        })
+        .then(data => {
+          // Store the token in localStorage
+          if (data.token) {
+            localStorage.setItem('authToken', data.token);
+            
+            // Show success message
+            showAlert('Login successful! Redirecting...', 'success');
+            
+            // Redirect after a short delay (you can customize this)
+            setTimeout(() => {
+              window.location.href = "{{ site.baseurl }}/dashboard";
+            }, 1500);
+          } else {
+            throw new Error('No token received from server');
+          }
+        })
+        .catch(error => {
+          // Show error message
+          showAlert(error.message, 'danger');
+        });
+      });
+      
+      function showAlert(message, type) {
+        alertMessage.textContent = message;
+        alertMessage.className = 'alert alert-' + type;
+        alertMessage.style.display = 'block';
+      }
+    });
+  </script>
+</body>
+</html>
