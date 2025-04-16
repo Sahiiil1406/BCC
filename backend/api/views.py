@@ -3,13 +3,15 @@ from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from django.shortcuts import get_object_or_404
 import json
-from .models import Event
+from .models import Event, User
 from django.utils.dateparse import parse_datetime
 from django.shortcuts import render, get_object_or_404, redirect
-from .models import Event
 from .forms import EventForm
 import os
 from django.conf import settings
+import hashlib
+from django.views.decorators.http import require_POST
+from .auth import generate_token, admin_required
 
 
 EVENTS_DIR = os.path.join(settings.BASE_DIR, "frontend", "events", "2025")
@@ -150,6 +152,7 @@ def event_detail(request, pk):
         return JsonResponse({"error": "Invalid ID format"}, status=400)
 
 @csrf_exempt
+@admin_required
 def event_create_file(request):
     if request.method == "OPTIONS":
         # Handle CORS preflight request
@@ -202,12 +205,15 @@ startsAt: {data.get('startsAt')}
 endsAt: {data.get('endsAt')}
 permalink: /events/{data.get('permalink')}/
 payment:
-  price: {data.get('price')}
-  razorpay: {data.get('razorpay_Id')}
+  price: {data.get('payment', {}).get('price')}
+  razorpay: {data.get('payment', {}).get('razorpay')}
 ---
 
 ## Event Details
 {data.get('details')}
+
+## What's Included
+{data.get('whats_included')}
 """
 
             # Save to Markdown file
@@ -230,3 +236,60 @@ payment:
 
     print("Method not allowed:", request.method)
     return JsonResponse({"error": "Only POST method allowed"}, status=405)
+
+# Hash password utility
+def hash_password(password):
+    return hashlib.sha256(password.encode()).hexdigest()
+
+# Create superuser command
+def create_superuser(email, password):
+    # Check if user exists
+    if User.objects.filter(email=email).exists():
+        user = User.objects.get(email=email)
+        user.password = hash_password(password)
+        user.is_admin = True
+        user.save()
+    else:
+        User.objects.create(
+            email=email,
+            password=hash_password(password),
+            is_admin=True
+        )
+    return User.objects.get(email=email)
+
+@csrf_exempt
+@require_POST
+def admin_login(request):
+    data = json.loads(request.body)
+    email = data.get('email')
+    password = data.get('password')
+    
+    if not email or not password:
+        return JsonResponse({'error': 'Email and password are required'}, status=400)
+    
+    try:
+        user = User.objects.get(email=email)
+        if user.password == hash_password(password):
+            if not user.is_admin:
+                return JsonResponse({'error': 'User is not an admin'}, status=403)
+                
+            token = generate_token(user.id, user.is_admin)
+            return JsonResponse({
+                'token': token,
+                'user': {
+                    'id': user.id,
+                    'email': user.email,
+                    'is_admin': user.is_admin
+                }
+            })
+        else:
+            return JsonResponse({'error': 'Invalid credentials'}, status=401)
+    except User.DoesNotExist:
+        return JsonResponse({'error': 'Invalid credentials'}, status=401)
+
+# Example of protected admin route
+@csrf_exempt
+@admin_required
+def admin_dashboard(request):
+    # Only admins can access this
+    return JsonResponse({'message': 'Welcome to admin dashboard'})
