@@ -12,6 +12,9 @@ from django.conf import settings
 import hashlib
 from django.views.decorators.http import require_POST
 from .auth import generate_token, admin_required
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 EVENTS_DIR = os.path.join(settings.BASE_DIR, "frontend", "events", "2025")
@@ -258,23 +261,26 @@ def create_superuser(email, password):
     return User.objects.get(email=email)
 
 @csrf_exempt
-@require_POST
 def admin_login(request):
     data = json.loads(request.body)
     email = data.get('email')
     password = data.get('password')
-    
+
     if not email or not password:
-        return JsonResponse({'error': 'Email and password are required'}, status=400)
-    
+        response = JsonResponse({'error': 'Email and password are required'}, status=400)
+        response["Access-Control-Allow-Origin"] = "*"
+        return response
+
     try:
         user = User.objects.get(email=email)
         if user.password == hash_password(password):
             if not user.is_admin:
-                return JsonResponse({'error': 'User is not an admin'}, status=403)
-                
+                response = JsonResponse({'error': 'User is not an admin'}, status=403)
+                response["Access-Control-Allow-Origin"] = "*"
+                return response
+
             token = generate_token(user.id, user.is_admin)
-            return JsonResponse({
+            response = JsonResponse({
                 'token': token,
                 'user': {
                     'id': user.id,
@@ -282,10 +288,16 @@ def admin_login(request):
                     'is_admin': user.is_admin
                 }
             })
+            response["Access-Control-Allow-Origin"] = "*"
+            return response
         else:
-            return JsonResponse({'error': 'Invalid credentials'}, status=401)
+            response = JsonResponse({'error': 'Invalid credentials'}, status=401)
+            response["Access-Control-Allow-Origin"] = "*"
+            return response
     except User.DoesNotExist:
-        return JsonResponse({'error': 'Invalid credentials'}, status=401)
+        response = JsonResponse({'error': 'Invalid credentials'}, status=401)
+        response["Access-Control-Allow-Origin"] = "*"
+        return response
 
 # Example of protected admin route
 @csrf_exempt

@@ -1,0 +1,276 @@
+---
+layout: default
+title: "Frequently Asked Questions"
+permalink: /faq/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FAQ | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <style>
+    .faq-container {
+      max-width: 800px;
+      margin: 60px auto;
+      padding: 30px;
+      background-color: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+    
+    .page-title {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #333;
+    }
+    
+    .faq-search {
+      margin-bottom: 30px;
+    }
+    
+    .search-input {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 16px;
+      transition: border-color 0.3s;
+    }
+    
+    .search-input:focus {
+      border-color: #4a90e2;
+      outline: none;
+    }
+    
+    .faq-categories {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 30px;
+    }
+    
+    .category-btn {
+      padding: 8px 16px;
+      background-color: #f5f5f5;
+      border: 1px solid #ddd;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    
+    .category-btn:hover {
+      background-color: #e9e9e9;
+    }
+    
+    .category-btn.active {
+      background-color: #4a90e2;
+      color: white;
+      border-color: #4a90e2;
+    }
+    
+    .faq-accordion {
+      margin-top: 20px;
+    }
+    
+    .faq-item {
+      margin-bottom: 15px;
+      border: 1px solid #eee;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    
+    .faq-question {
+      padding: 15px;
+      background-color: #f9f9f9;
+      cursor: pointer;
+      font-weight: 500;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .faq-question:hover {
+      background-color: #f3f3f3;
+    }
+    
+    .faq-question::after {
+      content: '+';
+      font-size: 20px;
+      transition: transform 0.3s;
+    }
+    
+    .faq-item.active .faq-question::after {
+      content: '−';
+    }
+    
+    .faq-answer {
+      padding: 0 15px;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease-out, padding 0.3s ease;
+    }
+    
+    .faq-item.active .faq-answer {
+      padding: 15px;
+      max-height: 500px;
+    }
+    
+    .no-results {
+      text-align: center;
+      padding: 20px;
+      color: #666;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="faq-container">
+    <h1 class="page-title">Frequently Asked Questions</h1>
+    
+    <div class="faq-search">
+      <input type="text" class="search-input" placeholder="Search for questions..." id="faq-search">
+    </div>
+    
+    <div class="faq-categories" id="faq-categories">
+      <!-- Categories will be dynamically populated -->
+    </div>
+    
+    <div class="faq-accordion" id="faq-accordion">
+      <!-- FAQ items will be dynamically populated -->
+    </div>
+    
+    <div class="no-results" id="no-results">
+      No matching questions found. Please try a different search term.
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      let faqData = [];
+      let activeCategory = 'all';
+      
+      // Fetch the FAQ data from JSON file
+      fetch('{{ site.baseurl }}/assets/FAQ.json')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Failed to load FAQ data');
+          }
+          return response.json();
+        })
+        .then(data => {
+          faqData = data;
+          initializeFAQ();
+        })
+        .catch(error => {
+          console.error('Error loading FAQ data:', error);
+          document.getElementById('faq-accordion').innerHTML = '<p class="error-message">Failed to load FAQ data. Please try again later.</p>';
+        });
+      
+      function initializeFAQ() {
+        populateCategories();
+        renderFAQItems(faqData);
+        setupEventListeners();
+      }
+      
+      function populateCategories() {
+        const categoriesContainer = document.getElementById('faq-categories');
+        const categories = ['all'];
+        
+        // Extract unique categories
+        faqData.forEach(item => {
+          if (item.category && !categories.includes(item.category)) {
+            categories.push(item.category);
+          }
+        });
+        
+        // Create category buttons
+        categoriesContainer.innerHTML = categories.map(category => 
+          `<button class="category-btn ${category === 'all' ? 'active' : ''}" data-category="${category}">
+            ${category.charAt(0).toUpperCase() + category.slice(1)}
+          </button>`
+        ).join('');
+      }
+      
+      function renderFAQItems(items) {
+        const faqContainer = document.getElementById('faq-accordion');
+        
+        if (items.length === 0) {
+          document.getElementById('no-results').style.display = 'block';
+          faqContainer.innerHTML = '';
+          return;
+        }
+        
+        document.getElementById('no-results').style.display = 'none';
+        
+        faqContainer.innerHTML = items.map((item, index) => `
+          <div class="faq-item" data-category="${item.category || ''}">
+            <div class="faq-question" data-index="${index}">
+              ${item.question}
+            </div>
+            <div class="faq-answer">
+              ${item.answer}
+            </div>
+          </div>
+        `).join('');
+      }
+      
+      function setupEventListeners() {
+        // Category filter buttons
+        document.querySelectorAll('.category-btn').forEach(button => {
+          button.addEventListener('click', function() {
+            document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+            
+            activeCategory = this.dataset.category;
+            filterFAQs();
+          });
+        });
+        
+        // Search functionality
+        document.getElementById('faq-search').addEventListener('input', filterFAQs);
+        
+        // Accordion functionality for questions
+        document.getElementById('faq-accordion').addEventListener('click', function(e) {
+          if (e.target.classList.contains('faq-question')) {
+            const item = e.target.parentElement;
+            const isActive = item.classList.contains('active');
+            
+            // Close all other open items
+            document.querySelectorAll('.faq-item.active').forEach(activeItem => {
+              if (activeItem !== item) {
+                activeItem.classList.remove('active');
+              }
+            });
+            
+            // Toggle current item
+            item.classList.toggle('active', !isActive);
+          }
+        });
+      }
+      
+      function filterFAQs() {
+        const searchTerm = document.getElementById('faq-search').value.toLowerCase();
+        let filteredItems;
+        
+        if (activeCategory === 'all') {
+          filteredItems = faqData.filter(item => 
+            item.question.toLowerCase().includes(searchTerm) || 
+            item.answer.toLowerCase().includes(searchTerm)
+          );
+        } else {
+          filteredItems = faqData.filter(item => 
+            item.category === activeCategory && 
+            (item.question.toLowerCase().includes(searchTerm) || 
+             item.answer.toLowerCase().includes(searchTerm))
+          );
+        }
+        
+        renderFAQItems(filteredItems);
+      }
+    });
+  </script>
+</body>
+</html>
