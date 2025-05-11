@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How do I join the Bangalore Chess Club?",
+    "answer": "To join the Bangalore Chess Club, visit our website and click on the 'Join Us' button. Fill in the required details such as your name, email, and chess experience. After submission, you will receive an email with further instructions to complete your membership.",
+    "category": "membership"
+  },
+  {
+    "question": "I forgot my account password. How can I reset it?",
+    "answer": "If you've forgotten your password, go to the 'Login' page and select the 'Forgot Password' link. Enter your registered email address, and we'll send you a link to reset your password securely.",
+    "category": "membership"
+  },
+  {
+    "question": "How can I update my profile information?",
+    "answer": "After logging in, navigate to the 'Profile' section. Here you can update your personal details, including your chess rating, preferred playing style, and past tournament records.",
+    "category": "membership"
+  },
+  {
+    "question": "What payment methods do you accept for tournament registration?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers. For corporate members or sponsors, we also offer invoice-based payments.",
+    "category": "billing"
+  },
+  {
+    "question": "How do I cancel my membership?",
+    "answer": "To cancel your membership, log in to your account and go to 'Account Settings'. Click on 'Manage Membership' and select 'Cancel Membership'. Please note that you'll continue to have access to all member benefits until the end of your current billing cycle.",
+    "category": "billing"
+  },
+  {
+    "question": "Do you offer refunds for tournament fees?",
+    "answer": "Yes, we offer a 30-day refund policy for tournament registrations. If you are unable to attend, you can request a full refund within 30 days of the registration. Please contact our support team for assistance.",
+    "category": "billing"
+  },
+  {
+    "question": "How secure is my data on the Bangalore Chess Club platform?",
+    "answer": "We prioritize the security of your personal information. All data is encrypted both in transit and at rest. Our platform uses SSL/TLS encryption and follows industry-standard security practices. Our servers are hosted in secure, SOC 2 compliant facilities, and we conduct regular security audits.",
+    "category": "security"
+  },
+  {
+    "question": "Can I export my chess game data?",
+    "answer": "Yes, you can export your game history at any time. Go to 'Account Settings' and select the 'Export Game Data' option. Choose whether you'd like to export all your games or specific ones, and we’ll send you a secure, downloadable file.",
+    "category": "data"
+  },
+  {
+    "question": "Do you have a mobile app for playing chess?",
+    "answer": "Yes, we offer mobile apps for both iOS and Android devices. You can download them from the Apple App Store or Google Play Store by searching for 'Bangalore Chess Club'. The app lets you play games, track your ratings, and receive event updates.",
+    "category": "technical"
+  },
+  {
+    "question": "What browsers are supported for online chess?",
+    "answer": "Our online chess platform supports all modern browsers, including Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge (latest versions). For the best experience, we recommend using the most up-to-date version of your browser.",
+    "category": "technical"
+  }
+]
