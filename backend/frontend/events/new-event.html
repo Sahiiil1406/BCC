@@ -73,8 +73,23 @@ permalink: /new-events/
         <label for="sponsor">Sponsor:</label>
         <input type="text" id="sponsor" class="new-event-input">
 
-        <label for="image">Image Filename:</label>
+        <label for="eventType">Event Type:</label>
+        <select id="eventType" class="new-event-input" required>
+            <option value="" disabled selected>Select an event type</option>
+            <option value="Chess Connect Blitz">Chess Connect Blitz</option>
+            <option value="Chess Connect Rapid">Chess Connect Rapid</option>
+            <option value="Chess Cafe">Chess Cafe</option>
+            <option value="Chess and Cheers">Chess and Cheers</option>
+            <option value="Chess Connect Team Battle">Chess Connect Team Battle</option>
+            <option value="Chess Connect Freestyle">Chess Connect Freestyle</option>
+        </select>
+
+        <label for="image">Event Image (filename or URL):</label>
         <input type="text" id="image" class="new-event-input" required>
+
+
+        <label for="rounds">Rounds:</label>
+        <input type="number" id="rounds" class="new-event-input" required>
 
         <label for="startsAt">Start Date & Time:</label>
         <input type="datetime-local" id="startsAt" class="new-event-input" required>
@@ -94,6 +109,9 @@ permalink: /new-events/
         <label for="details">Event Details:</label>
         <textarea id="details" class="new-event-textarea" required></textarea>
 
+        <label for="whats-included">What's Included:</label>
+        <textarea id="whats-included" class="new-event-textarea"></textarea>
+
         <button type="submit" class="new-event-submit">Create Event</button>
     </form>
 </div>
@@ -106,17 +124,19 @@ permalink: /new-events/
     const eventData = {
         title: document.getElementById("title").value,
         location: document.getElementById("location").value,
-        variations: document.getElementById("variations").value.split(",").map(v => v.trim()), // Send as an array
+        variations: document.getElementById("variations").value.split(",").map(v => v.trim()).filter(v => v),
         sponsor: document.getElementById("sponsor").value,
+        eventType: document.getElementById("eventType").value,
         image: document.getElementById("image").value,
         startsAt: document.getElementById("startsAt").value,
         endsAt: document.getElementById("endsAt").value,
         permalink: document.getElementById("permalink").value,
         payment: {
-            price: document.getElementById("price").value,
+            price: parseFloat(document.getElementById("price").value),
             razorpay: document.getElementById("razorpay").value
         },
-        details: document.getElementById("details").value
+        details: document.getElementById("details").value,
+        whats_included: document.getElementById("whats-included").value
     };
 
     try {
